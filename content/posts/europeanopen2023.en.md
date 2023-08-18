@@ -2,7 +2,7 @@
 title: "European Open"
 author: Elias Braun
 date: 2023-06-12
-image: /img/LGNU-EuropeanOpen.jpg
+image: /img/23/LGNU-EuropeanOpen.jpg
 draft: false
 lang: en
 ---
