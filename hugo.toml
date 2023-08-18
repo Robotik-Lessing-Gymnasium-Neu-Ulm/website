@@ -1,0 +1,261 @@
+baseURL = 'https://robotics.tghd.link'
+title = 'Robotics LGNU'
+languageCode = 'de'
+defaultContentLanguage = 'de'
+paginate = 7
+theme = 'spectral'
+
+[params]
+fancyTitle = 'Robotics LGNU'
+copyright = 'Robotics Lessing Gymnasium Neu-Ulm'
+body_is_markdown = true
+images = '/img/standartIMG.png'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[language.en]
+weight = 10
+languageName = 'English'
+description = 'International competitive junior robotics team from Germany'
+
+[language.de]
+weight = 0
+languageName = 'Deutsch'
+description = 'Internationales wettbewerbsfähiges Junior-Robotik-Team aus Deutschland'
+
+
+# Menu
+
+# German
+
+[[languages.de.params.menu.main]]
+url = '/'
+title = 'Home'
+
+[[languages.de.params.menu.main]]
+url = '/posts/'
+title = 'Posts'
+
+[[languages.de.params.menu.main]]
+url = '/teams/'
+title = 'Teams'
+
+[[languages.de.params.menu.main]]
+url = '/erfolgs-geschichte/'
+title = 'Erfolgs-Geschichte'
+
+[[languages.de.params.menu.main]]
+url = '/sponsoren/'
+title = 'Sponsoren'
+
+[[languages.de.params.menu.main]]
+url = '/invis/links/'
+title = 'Links'
+
+[[languages.de.params.menu.main]]
+url = '/imprint/'
+title = 'Impressum'
+
+[[languages.de.params.menu.main]]
+url = '/en/'
+title = 'English'
+
+
+# English
+
+[[languages.en.params.menu.main]]
+url = '/en/'
+title = 'Home'
+
+[[languages.en.params.menu.main]]
+url = '/en/posts/'
+title = 'Posts'
+
+[[languages.en.params.menu.main]]
+url = '/en/teams/'
+title = 'Teams'
+
+[[languages.en.params.menu.main]]
+url = '/en/participation-history/'
+title = 'Participation history'
+
+[[languages.en.params.menu.main]]
+url = '/en/sponsors'
+title = 'Sponsors'
+
+[[languages.en.params.menu.main]]
+url = '/invis/links/'
+title = 'Links'
+
+[[languages.en.params.menu.main]]
+url = '/imprint/'
+title = 'Imprint'
+
+[[languages.en.params.menu.main]]
+url = '/de/'
+title = 'Deutsch'
+
+
+# German
+ 
+[languages.de.params.one]
+enable = true
+title = 'Über uns:'
+body = '''
+Wir sind die Robotik AG des Lessing Gymnasiums Neu-Ulm. Wir entwickeln, bauen und programmieren
+Roboter für den internationalen ["RoboCup Junior"](https://junior.robocup.org).
+Der ["RoboCup"](https://robocup.org) ist eine internationale Organisation deren Ziel es ist bis
+2050 Menschen mit Robotern in der Sportart Fußball zu besiegen. 
+Um bereits junge Menschen auf den ["RoboCup"](https://robocup.org) aufmerksam zu machen und für
+Robotik zu begeistern würde der ["RoboCup Junior"](https://junior.robocup.org) gegründet neben
+dem ["RoboCup Major"](https://robocup.org), welcher für Universitäten ist.
+Wir nehmen seit 2007 am ["RoboCup Junior"](https://junior.robocup.org) teil und haben bereits mehrmals
+die Weltmeisterschaft gewonnen.  
+'''
+
+[languages.de.params.two]
+enable = true 
+
+[[languages.de.params.two.section]]
+img = '/img/WorldOpenPoster2023.jpg'
+title = 'Welt-Meisterschaft'
+body = '''
+Unseren beiden Teams die sich für die Weltmeisterschaft in Bordeaux Frankreich qualifiziert haben
+freuen sich schon auf den bevorstehenden Wettkampf. 
+Bevor sie nach Bordeaux fahren, bleiben sie noch zwei Tage in der Stadt Lyon und werden den Tag vor
+dem Wettkampf Bordeaux erkunden.
+Beide Teams werden regelmäßig Updates auf [Instagram](/invis/links/) und [hier](/posts/worldopen2023/) veröffentlichen.
+'''
+
+
+[[languages.de.params.two.section]]
+img = '/img/LGNU-EuropeanOpen.jpg'
+title = 'Europa-Meisterschaft'
+body = '''
+Zwei unserer fünf Teams qualifizierten  sich für die Europameisterschaft in Varazidin in Kroatien.
+Trotz starker Gegner hatten sie trotzdem viel Spaß auf der Meisterschaft und beim Erkunden der Stadt.
+Lesen sie [hier](/posts/europeanopen2023/) weiter!
+'''
+
+[[languages.de.params.two.section]]
+img = '/img/LGNU-GermanOpen.jpg'
+title = 'Deutsche Meisterschaft'
+body = '''
+Die Deutsche Meisterschaft ist der Vorentscheid für die internationalen Meisterschaften
+und somit die wichtigste Meisterschaft Deutschlands. Wir sind mit fünf Teams angereist und
+vier davon qualifizierten sich für eine der beiden internationalen Wettkämpfe.
+Jeweils zwei für die Europameisterschaft und die Weltmeisterschaft.
+Lesen sie [hier](/posts/germanopen2023/) weiter!
+'''
+
+[[languages.de.params.two.section]]
+img = '/img/LGNU-Alle.jpg'
+title = 'Süddeutsche Meisterschaft'
+body = '''
+Die Süddeutsche Meisterschaft ist der Auftakt der alljährlichen RobCup Juniors. Er dient
+als Vorentscheid für die Deutsche Meisterschaft. 
+Lesen sie [hier](/posts/southopen2023/) weiter!
+'''
+
+
+[languages.de.params.cta]
+enable = true
+title = 'Lerne unsere Teams kennen oder schau dir unsere Erfolgsgeschichte an'
+
+[[languages.de.params.cta.link]]
+href = ' /teams/'
+text = 'Teams'
+special = false 
+
+[[languages.de.params.cta.link]]
+href = ' /erfolgs-geschichte/'
+text = 'Erfolgs-Geschichte'
+special = false
+
+[languages.de.params.contact]
+enable = true
+title = 'Kontakt'
+email = 'robotics@tghd.email'
+body = 'Bei Fragen oder Anfragen kontakieren Sie uns einfach hier:'
+subject = 'Nachricht von Robotics Website'
+formspree_form_id = 'xgebgjze'
+
+
+# Englisch 
+[languages.en.params.one]
+enable = true
+title = 'About us'
+body = '''
+The robotics club of the German Lessing Gymnasium Neu-Ulm aims to build roboters for the international RoboCup Junior. 
+For this, you first have to know what the ['RoboCup'](https://robocup.org) is: The RoboCup is an international organization whith the aim to beat humans
+in soccer till the end of the year 2050.
+To inspire young people, the RoboCup founded ['RoboCup Junior'](https://junior.roobocup.org) besides the ['RoboCup Major'](https://www.robocup.org/), which 
+is for universities.
+We have been participating in the RoboCup Junior championships since the year 2007 and we have already won the International Championship several times  
+
+'''
+
+[languages.en.params.two]
+enable = true
+
+[[languages.en.params.two.section]]
+img = '/img/WorldOpenPoster2023.jpg'
+title = 'World Open'
+body = '''
+We are all realy excited for the upcoming World Open in Bordeaux in France. 
+Before the competition, the two teams will stay for two nights in Liou and 
+going to explore Bordeaux the day before the competition starts.
+Our two teams will posts updates on [instagram]( /invis/links) and [here]( /en/posts/worldopen2023/).
+'''
+
+[[languages.en.params.two.section]]
+img = '/img/LGNU-EuropeanOpen.jpg'
+title = 'European Open'
+body = '''
+Two out of our five teams participated at the European Open. 
+Besides the competition, they had fun exploring the city Varazidin
+in Croatie. 
+Read this [post](https://robotics.tghd.media/en/posts/europeanopen2023/) for more information!
+'''
+
+[[languages.en.params.two.section]]
+img = '/img/LGNU-GermanOpen.jpg'
+title = 'German Open'
+body = '''
+The German Open is the preliminary decision for the European and World Open. 
+We participated with five teams and four of them qualified for an internationel competition.
+Two each for the World Open and European Open!
+Read this [post](https://robotics.tghd.media/en/posts/germanopen2023/) for more information!
+'''
+
+[[languages.en.params.two.section]]
+img = '/img/LGNU-Alle.jpg'
+title = 'South Open'
+body = '''
+The South-Open is the kick-off for the yearly RoboCup Junior.
+It serves as a preliminary for the German-Open.
+Read this [post](https://robotics.tghd.media/en/posts/southopen2023) for more information!
+'''
+
+[languages.en.params.cta]
+enable = true
+title = 'Meet our teams or learn more about our participation history'
+
+[[languages.en.params.cta.link]]
+href = ' /en/teams/'
+text = 'Teams'
+special = false 
+
+[[languages.en.params.cta.link]]
+href = ' /en/participation-history'
+text = 'Participation history'
+special = false
+
+[languages.en.params.contact]
+enable = true
+title = 'Contact'
+email = 'robotics@tghd.email'
+body = 'If you have any questions or inquiries, feel free to wirte us a message:'
+subject = 'Nachricht von Robotics Website'
+formspree_form_id = 'xgebgjze'

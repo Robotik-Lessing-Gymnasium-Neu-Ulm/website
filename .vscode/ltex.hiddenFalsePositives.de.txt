@@ -1,0 +1,3 @@
+{"rule":"WHITESPACE_RULE","sentence":"^\\QDie Deutsche Meisterschaft ist der wichtigste Wettkampf in Deutschland.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QTeam Faabs (Soccer Open int.) → Zweiter Platz\nTeam Robotronic (Soccer LightWeight int.) → Zweiter Platz\nTeam Mathimazierer (Soccer LightWeight Entry) → Dritter Platz\nTeam Nebula (Soccer LightWeight Entry) → Zweiter Platz\nTeam Nuttelabroetchen (OnStage) → Erster Platz\nTeam RoboChip (Rescue Line Entry) → Neunter Platz\nTeam Superprogrammierer (Rescue Line Entry) → Zehnter Platz\nTeam Die belegten Brötchen (Rescue Line Entry) → 34 Platz\\E$"}
+{"rule":"DE_AGREEMENT","sentence":"^\\QVon unseren acht Teams erreichten fünf einen Podestplatz und qualifizuerten sich somit für die Deutsch Meisterschaft in Kassel.\\E$"}
