@@ -118,7 +118,7 @@ die Weltmeisterschaft gewonnen.
 enable = true 
 
 [[languages.de.params.two.section]]
-img = '/img/WorldOpenPoster2023.jpg'
+img = '/img/23/LGNU-WorldOpen.jpg'
 title = 'Welt-Meisterschaft'
 body = '''
 Unseren beiden Teams die sich für die Weltmeisterschaft in Bordeaux Frankreich qualifiziert haben
@@ -130,7 +130,7 @@ Beide Teams werden regelmäßig Updates auf [Instagram](/invis/links/) und [hier
 
 
 [[languages.de.params.two.section]]
-img = '/img/LGNU-EuropeanOpen.jpg'
+img = '/img/23/LGNU-EuropeanOpen.jpg'
 title = 'Europa-Meisterschaft'
 body = '''
 Zwei unserer fünf Teams qualifizierten  sich für die Europameisterschaft in Varazidin in Kroatien.
@@ -139,7 +139,7 @@ Lesen sie [hier](/posts/europeanopen2023/) weiter!
 '''
 
 [[languages.de.params.two.section]]
-img = '/img/LGNU-GermanOpen.jpg'
+img = '/img/23/LGNU-GermanOpen.jpg'
 title = 'Deutsche Meisterschaft'
 body = '''
 Die Deutsche Meisterschaft ist der Vorentscheid für die internationalen Meisterschaften
@@ -164,14 +164,14 @@ enable = true
 title = 'Lerne unsere Teams kennen oder schau dir unsere Erfolgsgeschichte an'
 
 [[languages.de.params.cta.link]]
-href = ' /teams/'
+href = '/teams/'
 text = 'Teams'
 special = false 
 
 [[languages.de.params.cta.link]]
-href = ' /erfolgs-geschichte/'
+href = '/erfolgs-geschichte/'
 text = 'Erfolgs-Geschichte'
-special = false
+special = false 
 
 [languages.de.params.contact]
 enable = true
@@ -200,7 +200,7 @@ We have been participating in the RoboCup Junior championships since the year 20
 enable = true
 
 [[languages.en.params.two.section]]
-img = '/img/WorldOpenPoster2023.jpg'
+img = '/img/23/LGNU-WorldOpen.jpg'
 title = 'World Open'
 body = '''
 We are all realy excited for the upcoming World Open in Bordeaux in France. 
@@ -210,7 +210,7 @@ Our two teams will posts updates on [instagram]( /invis/links) and [here]( /en/p
 '''
 
 [[languages.en.params.two.section]]
-img = '/img/LGNU-EuropeanOpen.jpg'
+img = '/img/23/LGNU-EuropeanOpen.jpg'
 title = 'European Open'
 body = '''
 Two out of our five teams participated at the European Open. 
@@ -220,7 +220,7 @@ Read this [post](https://robotics.tghd.media/en/posts/europeanopen2023/) for mor
 '''
 
 [[languages.en.params.two.section]]
-img = '/img/LGNU-GermanOpen.jpg'
+img = '/img/23/LGNU-GermanOpen.jpg'
 title = 'German Open'
 body = '''
 The German Open is the preliminary decision for the European and World Open. 
@@ -243,12 +243,12 @@ enable = true
 title = 'Meet our teams or learn more about our participation history'
 
 [[languages.en.params.cta.link]]
-href = ' /en/teams/'
+href = '/en/teams/'
 text = 'Teams'
 special = false 
 
 [[languages.en.params.cta.link]]
-href = ' /en/participation-history'
+href = '/en/participation-history'
 text = 'Participation history'
 special = false
 
