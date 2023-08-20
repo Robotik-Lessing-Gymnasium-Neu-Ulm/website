@@ -1,13 +1,13 @@
-baseURL = 'https://robotics.tghd.link'
-title = 'Robotics LGNU'
+baseURL = 'https://technulgy.com'
+title = 'Technulgy: Robotics LGNU'
 languageCode = 'de'
 defaultContentLanguage = 'de'
 paginate = 7
 theme = 'spectral'
 
 [params]
-fancyTitle = 'Robotics LGNU'
-copyright = 'Robotics Lessing Gymnasium Neu-Ulm'
+fancyTitle = 'Technulgy'
+copyright = 'Technulgy: Robotics Club Lessing Gymnasium Neu-Ulm'
 body_is_markdown = true
 images = '/img/standartIMG.png'
 
@@ -176,7 +176,7 @@ special = false
 [languages.de.params.contact]
 enable = true
 title = 'Kontakt'
-email = 'robotics@tghd.email'
+email = 'contact@technulgy.com'
 body = 'Bei Fragen oder Anfragen kontakieren Sie uns einfach hier:'
 subject = 'Nachricht von Robotics Website'
 formspree_form_id = 'xgebgjze'
@@ -255,7 +255,7 @@ special = false
 [languages.en.params.contact]
 enable = true
 title = 'Contact'
-email = 'robotics@tghd.email'
+email = 'contact@technulgy.com'
 body = 'If you have any questions or inquiries, feel free to wirte us a message:'
 subject = 'Nachricht von Robotics Website'
 formspree_form_id = 'xgebgjze'

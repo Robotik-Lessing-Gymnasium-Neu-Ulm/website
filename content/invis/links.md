@@ -12,4 +12,4 @@ lang = "en"
 | [School Website](https://lgnu.de)                              | [Instagram - Team Mathimazierer](https://www.instagram.com/mathimazierer_robotics/)       |
 | [RoboCup](https://robocup.org)                                 | [Instagram - Team Nebula](https://www.instagram.com/roboticsnebula/)                      |
 | [RoboCup Junior](https://junior.robocup.org/)                  | [Instagram - Team Nuttelabroetchen](https://www.instagram.com/nutellabroetchen_robotics/) |
-| [RoboCup Germany](https://robocupjunior.de/)                   | []()|
+| [RoboCup Germany](https://robocupjunior.de/)                   | [contact@technulgy.com](mailto:contact@technulgy.com)|
