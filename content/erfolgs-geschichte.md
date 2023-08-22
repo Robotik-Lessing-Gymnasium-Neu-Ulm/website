@@ -9,8 +9,8 @@ lang: de
 ## 2023
 ### World Open
  - Team Faabs (Soccer Open) &rarr; Weltmeister 🥇
- - Team Faabs (Soccer Open) &rarr; Gewinner des "Outstanding Design Award"
- - Team Robotronic (Soccer LightWeight) &rarr; Gewinner der "Super Team Challenge"
+ - Team Faabs (Soccer Open) &rarr; Gewinner des "Outstanding Design Award" 🎖️
+ - Team Robotronic (Soccer LightWeight) &rarr; Gewinner der "Super Team Challenge" 🎖️
 
 ### European Open
  - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Zweiter Platz 🥈
