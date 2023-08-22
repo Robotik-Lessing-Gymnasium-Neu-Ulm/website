@@ -3,7 +3,8 @@ title = 'Technulgy: Robotics LGNU'
 languageCode = 'de'
 defaultContentLanguage = 'de'
 paginate = 7
-theme = 'spectral'
+theme = ['hugo-embed-pdf-shortcode', 'spectral']
+enableInlineShortcodes = true
 
 [params]
 fancyTitle = 'Technulgy'
@@ -50,6 +51,10 @@ url = '/sponsoren/'
 title = 'Sponsoren'
 
 [[languages.de.params.menu.main]]
+url = '/publications/'
+title = 'Publications'
+
+[[languages.de.params.menu.main]]
 url = '/invis/links/'
 title = 'Links'
 
@@ -83,6 +88,10 @@ title = 'Participation history'
 [[languages.en.params.menu.main]]
 url = '/en/sponsors'
 title = 'Sponsors'
+
+[[languages.en.params.menu.main]]
+url = '/en/publications/'
+title = 'Publications'
 
 [[languages.en.params.menu.main]]
 url = '/invis/links/'
