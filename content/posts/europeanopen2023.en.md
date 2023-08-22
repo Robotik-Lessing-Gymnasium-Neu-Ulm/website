@@ -1,6 +1,6 @@
 ---
 title: "European Championship"
-author: Elias Braun
+author: "Elias Braun, Fabian Brunde"
 date: 2023-06-12
 image: /img/23/LGNU-EuropeanOpen.jpg
 draft: false

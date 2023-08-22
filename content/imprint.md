@@ -1,6 +1,6 @@
 ---
 title: "Impressum und Datenschutz"
-author: Elias Braun
+author: "Elias Braun"
 draft: false
 lang: de
 ---
@@ -14,7 +14,7 @@ Augsburgerstraße 75
 ### Kontakt:
 
 Telefon: +49 0731 205598 0
-E-Mail: robotics@tghd.email
+E-Mail: contact@technulgy.com
 
 ### Streitschlichtung
 
@@ -42,7 +42,7 @@ wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch
 keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der
 jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten
 Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
-überprüft.  Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht
+überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht
 erkennbar.
 
 Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne

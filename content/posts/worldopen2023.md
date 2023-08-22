@@ -1,6 +1,6 @@
 ---
 title: "Weltmeisterschaft"
-author: Elias Braun
+author: "Elias Braun, Fabian Brune"
 date: 2023-07-11
 image: /img/23/RoboCup-WM.jpg
 draft: false

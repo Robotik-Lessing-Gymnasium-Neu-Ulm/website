@@ -1,6 +1,6 @@
 ---
 title: Erfolgsgeschichte
-author: Elias Braun
+author: "Elias Braun, Fabian Brune"
 # image:
 draft: false
 lang: de
