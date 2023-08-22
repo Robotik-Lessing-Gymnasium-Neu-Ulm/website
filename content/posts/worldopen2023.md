@@ -12,7 +12,7 @@ Dieses Jahr begaben sich die Schüler des Lessing in die wunderschöne Stadt Bor
 Nachdem Sie erst einmal die Stadt Lyon besucht haben und einen Tag Bordeaux unsicher gemacht haben, ging der RoboCup auch schon los.
 Nach vielen spannenden und vor allem knappen spielen, Technical Challanges und Interviews stand nach insgesamt funf Tagen Wettkampf 
 folgender Endstand fest: 
- - Team Faabs (Soccer Open) &rarr; Weltmeister
+ - Team Faabs (Soccer Open) &rarr; Weltmeister 🥇
  - Team Faabs (Soccer Open) &rarr; Gewinner des "Outstanding Design Award"
  - Team Robotronic (Soccer LightWeight) &rarr; Gewinner der "Super Team Challenge"
 

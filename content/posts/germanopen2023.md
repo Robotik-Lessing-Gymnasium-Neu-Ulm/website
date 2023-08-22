@@ -17,13 +17,13 @@ drei Tage waren gefüllt mit spannenden Spielen. <br/>
 
 Am Ende hatten wir folgenen Endstand für unsere Teams:
 
-- Team Faabs (Soccer Open int.) &rarr; Zweiter Platz
- - Team Faabs (Soccer Open int. Super Team) &rarr; Erster Platz
- - Team Robotronic (Soccer LightWeight int.) &rarr; Erster Platz
- - Team Robotronic (Soccer LightWeight int. Super Team) &rarr; Erster Platz
- - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Dritter Platz
+- Team Faabs (Soccer Open int.) &rarr; Zweiter Platz 🥈
+ - Team Faabs (Soccer Open int. Super Team) &rarr; Erster Platz 🥇
+ - Team Robotronic (Soccer LightWeight int.) &rarr; Erster Platz 🥇
+ - Team Robotronic (Soccer LightWeight int. Super Team) &rarr; Erster Platz 🥇
+ - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Dritter Platz 🥉
  - Team Nebula (Soccer LightWeight Entry) &rarr; Siebter Platz
- - Team Nuttelabroetchen (OnStage) &rarr; Dritter Platz
+ - Team Nuttelabroetchen (OnStage) &rarr; Dritter Platz 🥉
 
  Mit diesen Ergebnissen haben sich das Team Mathemazierer und das
  Team Nuttelabretchen angefangen sich für die 

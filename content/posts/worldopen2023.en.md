@@ -12,7 +12,7 @@ This year our students visited the beatifull city Bordeaux in the heart of Franc
 After staying in Lyon and exploring Bordeaux for one day, the robocup started. After 
 many exciting games, technical challanges and interviews following final score was certain
 after those five days: 
- - Team Faabs (Soccer Open) &rarr; World Champion
+ - Team Faabs (Soccer Open) &rarr; World Champion 🥇
  - Team Faabs (Soccer Open) &rarr; Winner of the "Outstanding Design Award"
  - Team Robotronic (Soccer LightWeight) &rarr; Winner of the "Super Team Challenge"
 

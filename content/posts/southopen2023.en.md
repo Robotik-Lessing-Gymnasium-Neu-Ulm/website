@@ -13,14 +13,14 @@ for the [German Open](/en/posts/germanopen2023).
 
 The overall final score was as follows: 
 
- - Team Faabs (Soccer Open int.) &rarr; Second Place
- - Team Robotronic (Soccer LightWeight int.) &rarr; Second Place
- - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Third Place
- - Team Nebula (Soccer LightWeight Entry) &rarr; Second Place
- - Team Nuttelabroetchen (OnStage) &rarr; First Place
+ - Team Faabs (Soccer Open int.) &rarr; Second Place 🥈
+ - Team Robotronic (Soccer LightWeight int.) &rarr; Second Place 🥈
+ - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Third Place 🥉
+ - Team Nebula (Soccer LightWeight Entry) &rarr; Second Place 🥈
+ - Team Nuttelabroetchen (OnStage) &rarr; First Place 🥇
  - Team RoboChip (Rescue Line Entry) &rarr; Ninth Place
  - Team Superprogrammierer (Rescue Line Entry) &rarr; Tenth Place
- - Team Die belegten Brötchen (Rescue Line Entry) &rarr; 34 Place
+ - Team Die belegten Brötchen (Rescue Line Entry) &rarr; 34. Place
 
  Thus, Team Faabs, Robotronic, Mathemazierer, NEBula and
  Nuttelabroetchen began their preparations for the [German Open](/en/posts/germanopen2023) in Kassel.

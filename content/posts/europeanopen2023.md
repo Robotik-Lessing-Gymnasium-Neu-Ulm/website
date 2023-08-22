@@ -14,9 +14,9 @@ Nachdem sie für ein paar Tage Kroatien unsicher gemacht hatten, bagenn
 am 07.06.2023 der RoboCup. Nach drei spannenden Tagen standend die Entstände
 fest. 
 Trotz stark überlegender Abiturienten erreichte das siebt-Klass Team
-"Mathemazierer" das Finale und verlor beim Goalden Goal dieses leider.
+"Mathimazierer" das Finale und verlor beim Golden Goal dieses leider.
 
 Insgesamt ergab sich folgender Endstand:
 
- - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Zweiter Platz
+ - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Zweiter Platz 🥈
  - Team Nuttelabroetchen (OnStage) &rarr; Sechster Platz

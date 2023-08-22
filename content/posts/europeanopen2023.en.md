@@ -17,6 +17,6 @@ Despite the superiority of the high school graduates, the seventh grade team "Ma
 
 The overall final score was as follows:
 
- - Team Mathimazierer (Soccer LightWeight Entry) &rarr; second place
+ - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Second place 🥈
  - Team Nuttelabroetchen (OnStage) &rarr; Sixth Place
 
