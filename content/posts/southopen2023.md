@@ -1,5 +1,5 @@
 ---
-title: "Süddeutsche-Meisterschaft"
+title: "Süddeutsche Meisterschaft"
 author: Elias Braun
 date: 2023-03-06
 image: /img/LGNU-Alle.jpg

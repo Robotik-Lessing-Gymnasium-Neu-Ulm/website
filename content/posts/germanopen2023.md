@@ -1,5 +1,5 @@
 ---
-title: "Deutsche-Meisterschaft"
+title: "Deutsche Meisterschaft"
 author: Elias Braun
 date: 2023-05-01
 image: /img/23/LGNU-GermanOpen.jpg

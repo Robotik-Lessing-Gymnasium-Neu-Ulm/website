@@ -7,7 +7,7 @@ draft: false
 lang: en
 ---
 
-The German Open is the most important RoboCup Junior competition in Germany. <br/>
+The GermanOpen is the most important RoboCup Junior competition in Germany. <br/>
 Fortunately all of our five advanced teams qualified for the German Open.
 We started our trip on the 27. April and started testing our robots. 
 The following three days were filled with exciting games. <br/>

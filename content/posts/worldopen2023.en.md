@@ -1,5 +1,5 @@
 ---
-title: "World Open"
+title: "World Championship"
 author: Elias Braun
 date: 2023-07-11
 image: /img/23/LGNU-WorldOpen.jpg
@@ -7,7 +7,7 @@ draft: false
 lang: en
 ---
 
-The world open has come to an end and thus this season of robpocup junior.   
+The world championship has come to an end and thus this season of robpocup junior.   
 This year our students visited the beautiful city Bordeaux, France.
 After staying in Lyon and exploring Bordeaux for one day, the robocup started. After 
 many exciting games, technical challenges and interviews following final score was certain

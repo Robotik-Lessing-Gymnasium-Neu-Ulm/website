@@ -7,16 +7,16 @@ lang: de
 ---
 
 ## 2023
-### World Open
+### Weltmeisterschaft
  - Team Faabs (Soccer Open) &rarr; Weltmeister 🥇
  - Team Faabs (Soccer Open) &rarr; Gewinner des "Outstanding Design Award" 🎖️
  - Team Robotronic (Soccer LightWeight) &rarr; Gewinner der "Super Team Challenge" 🎖️
 
-### European Open
+### Europameisterschaft
  - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Zweiter Platz 🥈
  - Team Nuttelabroetchen (OnStage) &rarr; Sechster Platz
 
-### German Open
+### Deutsche Meisterschaft
  - Team Faabs (Soccer Open int.) &rarr; Zweiter Platz 🥈
  - Team Faabs (Soccer Open int. Super Team) &rarr; Erster Platz 🥇
  - Team Robotronic (Soccer LightWeight int.) &rarr; Erster Platz 🥇
@@ -25,7 +25,7 @@ lang: de
  - Team Nebula (Soccer LightWeight Entry) &rarr; Siebter Platz
  - Team Nuttelabroetchen (OnStage) &rarr; Dritter Platz 🥉
 
-### South Open
+### Süddeutsche Meisterschaft
  - Team Faabs (Soccer Open int.) &rarr; Zweiter Platz 🥈
  - Team Robotronic (Soccer LightWeight int.) &rarr; Zweiter Platz 🥈
  - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Dritter Platz 🥉
@@ -38,12 +38,12 @@ lang: de
 
 
 ## 2022
-### European Open
+### Europameisterschaft
  - Team Jellyfish (Soccer Open int.) &rarr; Dritter Platz 🥉
  - Team Faabs (Soccer LightWeight int.) &rarr; Zweiter Platz 🥈
  - Team Robotronic (Soccer LightWeight int.) &rarr; Fünfter Platz 
 
-### German Open
+### Deutsche Meisterschaft
  - Team Jellyfish (Soccer Open int.) &rarr; Vierter Platz
  - Team Faabs (Soccer LightWeight int.) &rarr; Zweiter Platz 🥈
  - Team Robotronic (Soccer LightWeight int.) &rarr; Vierter Platz 

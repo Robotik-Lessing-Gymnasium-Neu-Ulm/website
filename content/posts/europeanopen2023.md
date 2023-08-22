@@ -1,5 +1,5 @@
 ---
-title: "Europa-Meisterschaft"
+title: "Europameisterschaft"
 author: Elias Braun
 date: 2023-06-12
 image: /img/23/LGNU-EuropeanOpen.jpg

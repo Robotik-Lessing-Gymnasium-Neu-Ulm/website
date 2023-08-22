@@ -1,5 +1,5 @@
 ---
-title: "South Open"
+title: "South German Championship"
 author: Elias Braun
 date: 2023-03-06
 image: /img/LGNU-Alle.jpg
@@ -7,7 +7,7 @@ draft: false
 lang: en
 ---
 
-Last Weekend (04.03.2023 - 05.03.2023) was the South Open in Vöhringen.
+Last Weekend (04.03.2023 - 05.03.2023) was the South German Championship in Vöhringen.
 Five out of our eight teams reached the podium and are now qualified 
 for the [German Open](/en/posts/germanopen2023).
 
