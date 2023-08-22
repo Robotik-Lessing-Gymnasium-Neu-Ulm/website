@@ -13,7 +13,7 @@ Nachdem Sie erst einmal die Stadt Lyon besucht haben und einen Tag Bordeaux unsi
 Nach vielen spannenden und vor allem knappen spielen, Technical Challanges und Interviews stand nach insgesamt funf Tagen Wettkampf 
 folgender Endstand fest: 
  - Team Faabs (Soccer Open) &rarr; Weltmeister
- - Team Faabs (Soccer Open) &rarr; Gewinner des "Best Hardware Awards"
- - Team Robotronic (Soccer LightWeight) &rarr; Gewinner der "Super Team Challange"
+ - Team Faabs (Soccer Open) &rarr; Gewinner des "Outstanding Design Award"
+ - Team Robotronic (Soccer LightWeight) &rarr; Gewinner der "Super Team Challenge"
 
 Aufgrund dieser hervorragenden Ergebnisse schrieb sogar die Südwestpresse einen Artikel über uns: [SWP Artikel](https://www.swp.de/lokales/neu-ulm/lessing-gymnasiasten-siegen-bei-robotik-wm-wie-neu-ulmer-schueler-den-schiri-zum-ausflippen-bringen-71353839.html)
