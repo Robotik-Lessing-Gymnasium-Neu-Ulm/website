@@ -1,6 +1,6 @@
 ---
 title: "South Open"
-author: Elias Braun
+author: "Elias Braun, Fabian Brune"
 date: 2023-03-06
 image: /img/LGNU-Alle.jpg
 draft: false

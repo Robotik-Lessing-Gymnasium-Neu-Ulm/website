@@ -1,6 +1,6 @@
 ---
 title: "European Open"
-author: Elias Braun
+author: "Elias Braun, Fabian Brune"
 date: 2023-06-12
 image: /img/23/LGNU-EuropeanOpen.jpg
 draft: false

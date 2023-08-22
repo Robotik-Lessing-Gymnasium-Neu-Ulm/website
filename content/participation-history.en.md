@@ -1,6 +1,6 @@
 ---
 title: Participation history
-author: Elias Braun
+author: "Elias Braun, Fabian Brune"
 # img: 
 # img_alt: 
 draft: false

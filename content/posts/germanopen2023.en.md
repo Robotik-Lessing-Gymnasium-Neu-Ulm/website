@@ -1,6 +1,6 @@
 ---
 title: "German Open"
-author: Elias Braun
+author: "Elias Braun, Fabian Brune"
 date: 2023-05-01
 image: /img/23/LGNU-GermanOpen.jpg
 draft: false

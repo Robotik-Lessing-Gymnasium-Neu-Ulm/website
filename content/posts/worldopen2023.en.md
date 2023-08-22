@@ -1,6 +1,6 @@
 ---
 title: "World Open"
-author: Elias Braun
+author: "Elias Braun, Fabian Brune"
 date: 2023-07-11
 image: /img/23/LGNU-WorldOpen.jpg
 draft: false

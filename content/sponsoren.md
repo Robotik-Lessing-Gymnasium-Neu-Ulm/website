@@ -1,6 +1,6 @@
 ---
 title: "Sponsors"
-author: Elias Braun
+author: "Elias Braun"
 lang: de
 draft: false
 ---
