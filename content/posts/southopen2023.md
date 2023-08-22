@@ -9,7 +9,7 @@ lang: de
 
 Letzte Wochende (04.03.2023 - 05.03.2023) war die Süddeutsche
 Meisterschaft in Vöhringen. Von unseren acht Teams erreichten 
-fünf einen Podestplatz und qualifizuerten sich somit für die 
+fünf einen Podestplatz und qualifizierten sich somit für die 
 [Deutsche Meisterschaft](/posts/germanopen2023) in Kassel.
 
 Insgesamt ergab sich folgender Endstand:
@@ -23,6 +23,6 @@ Insgesamt ergab sich folgender Endstand:
  - Team Superprogrammierer (Rescue Line Entry) &rarr; Zehnter Platz
  - Team Die belegten Brötchen (Rescue Line Entry) &rarr; 34. Platz
 
- Somit begannen für Team Faabs, Robotronic, Mathemazierer, NEBula und
+ Somit begannen für Team Faabs, Robotronic, Mathimazierer, NEBula und
  Nuttelabroetchen die Vorbereitungen für die 
  [Deutsche Meisterschaft](/posts/germanopen2023) in Kassel.

@@ -8,9 +8,9 @@ lang: en
 ---
 
 The world open has come to an end and thus this season of robpocup junior.   
-This year our students visited the beatifull city Bordeaux in the heart of France.
+This year our students visited the beautiful city Bordeaux, France.
 After staying in Lyon and exploring Bordeaux for one day, the robocup started. After 
-many exciting games, technical challanges and interviews following final score was certain
+many exciting games, technical challenges and interviews following final score was certain
 after those five days: 
  - Team Faabs (Soccer Open) &rarr; World Champion 🥇
  - Team Faabs (Soccer Open) &rarr; Winner of the "Outstanding Design Award" 🎖️
