@@ -1,5 +1,5 @@
 ---
-title: "Europa-Meisterschaft"
+title: "Europameisterschaft"
 author: "Elias Braun, Fabian Brune"
 date: 2023-06-12
 image: /img/23/LGNU-EuropeanOpen.jpg
@@ -10,13 +10,13 @@ lang: de
 Die Europameisterschaft ist einer von beiden internationalen
 Wettbewerben. Dieses Jahr qualifizierten sich zwei Teams
 für die Europameisterschaft in Varazidin Kroatien. 
-Nachdem sie für ein paar Tage Kroatien unsicher gemacht hatten, bagenn 
-am 07.06.2023 der RoboCup. Nach drei spannenden Tagen standend die Entstände
+Nachdem sie für ein paar Tage Kroatien unsicher gemacht hatten, begannen 
+am 07.06.2023 der RoboCup. Nach drei spannenden Tagen standend die Ergebnisse
 fest. 
 Trotz stark überlegender Abiturienten erreichte das siebt-Klass Team
-"Mathemazierer" das Finale und verlor beim Goalden Goal dieses leider.
+"Mathimazierer" das Finale, dass sie durch das Golden Goal leider verloren.
 
 Insgesamt ergab sich folgender Endstand:
 
- - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Zweiter Platz
+ - Team Mathimazierer (Soccer LightWeight Entry) &rarr; Zweiter Platz 🥈
  - Team Nuttelabroetchen (OnStage) &rarr; Sechster Platz
