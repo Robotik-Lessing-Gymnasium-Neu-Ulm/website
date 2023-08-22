@@ -2,7 +2,7 @@
 title: "World Championship"
 author: Elias Braun
 date: 2023-07-11
-image: /img/23/LGNU-WorldOpen.jpg
+image: /img/23/RoboCup-WM.jpg
 draft: false
 lang: en
 ---

@@ -2,7 +2,7 @@
 title: "Weltmeisterschaft"
 author: Elias Braun
 date: 2023-07-11
-image: /img/23/RoboCupBordeaux-Logo.jpeg
+image: /img/23/RoboCup-WM.jpg
 draft: false
 lang: de
 ---
