@@ -18,3 +18,5 @@ git checkout production
 git branch -d <featurebranch>
 
 ```
+
+Danach in GitHub Pullrequest basierend auf faeture Branch erstellen und mergen...
