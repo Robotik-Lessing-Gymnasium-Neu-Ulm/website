@@ -19,4 +19,4 @@ git branch -d <featurebranch>
 
 ```
 
-Danach in GitHub Pullrequest basierend auf faeture Branch erstellen und mergen..
+Danach in GitHub Pullrequest basierend auf faeture Branch erstellen und mergen...
