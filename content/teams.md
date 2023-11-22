@@ -9,7 +9,7 @@ lang: de
 # Aktive Teams
 ## SOCCER
 
-  ### **Team Faabs** (gegründet 2019)
+  ### Team Faabs **(gegründet 2019)**
   **MITGLIEDER:**
   Fabian Brune, Mark Krause, Jurij Lenz 
   
@@ -26,7 +26,7 @@ lang: de
  - Vize Europameister Soccer LightWeight League 2022 🥈
  - Deutscher Vize Meister Soccer LightWeight League 2022 🥈
 
-  ### **Team Mathimazierer** (gegründet 2022)
+  ### Team Mathimazierer **(gegründet 2022)**
   **MITGLIEDER:** 
   
   Theo Reber, Dominik Hummel, Mika Rudat, Emmanuel Sánchez
@@ -39,7 +39,7 @@ lang: de
 
  ## RESCUE
 
-  ### **Team NEBula** gegründet 2022
+  ### Team NEBula **gegründet 2022**
  **MITGLIEDER:**  
  Bahaa Alia, Nils Trunzer, Elias Schuster
 
@@ -47,7 +47,7 @@ lang: de
   - Vize Süddeutscher Meister Soccer LightWeight Entry Leauge 2023 🥈
 
 ## ONSTAGE 
- ### **Team Nuttelabroedchen** gegründet 2021
+ ### Team Nuttelabroedchen **gegründet 2021**
  **MITGLIEDER:** 
 
  Paula Wranik, Martin Strassburger, Pascal Schmidt und Johannes Merkel
