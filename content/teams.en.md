@@ -19,7 +19,7 @@ lang: en
  - Winner of the "Outstanding Design Awards" 2023 🥇
  - German Vice-Champion Soccer Open League 2023 🥈
  - German Champion Soccer Open League Super Team 2023 🥈
- - Southern German Vice-Champion Soccer Open League 2023 🥈
+ - Vice-Champion of Southern Germany Soccer Open League 2023 🥈
 
   **Results 2022** LightWeight League European Vice-Champion 🥈
 
@@ -37,6 +37,16 @@ lang: en
  - Third Place at the German Championship Soccer LightWeight Entry League 2023 🎖️
  - Third Place at the Southern German Championship Soccer LightWeight Entry League 2023 🎖️
 
+   ### Team Robotronic **(founded 2018)**
+ **MEMBERS**
+ Dario Woll, Noah Zeller, Elias Braun(2019-2023)
+ **Results 2023** Soccer LightWeight League *World-Champion Super Team Category🥇*
+
+ - World-Champion Soccer LightWeight League Super Team 2023 🥇
+ - German-Champion Soccer LightWeight League 2023 🥇
+ - German-Champion Soccer LightWeight League Super Team 2023 🥇
+ - Vice-Champion of Southern Germany Soccer LightWeight League 2023 🥈
+
  ## RESCUE
 
   ### Team NEBula **founded 2022**
@@ -44,7 +54,7 @@ lang: en
  Bahaa Alia, Nils Trunzer, Elias Schuster
 
  **Results 2023** Soccer LightWeight League *Southern-German Vice-Champion * 🥈
-  - Southern-German Vice-Champion Soccer LightWeight Entry Leauge 2023 🥈
+  - Vice-Champion of Southern Germany Soccer LightWeight Entry Leauge 2023 🥈
 
 ## ONSTAGE 
  ### Team Nuttelabroedchen **founded 2021**
@@ -60,9 +70,6 @@ lang: en
   - Third Place at the German Championships OnStage League 2022 🎖️
 
 ## Previous Teams
- - Team Robotronic 
-
-
  - Team Jellyfish
 
  - Team SoccerXY
