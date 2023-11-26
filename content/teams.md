@@ -37,6 +37,16 @@ lang: de
  - Dritter Platz Deutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
  - Dritter Platz Süddeutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
 
+   ### Team Robotronic **(gegründet 2018)**
+ **MITGLIEDER**
+ Dario Woll, Noah Zeller, Elias Braun(2019-2023)
+ **Erfolge 2023** Soccer LightWeight League *Weltmeister Super-Team Kategorie🥇*
+
+ - Weltmeister Soccer LightWeight League Super Team 2023 🥇
+ - Deutscher Meister Soccer LightWeight League 2023 🥇
+ - Deutscher Meister Soccer LightWeight League Super Team 2023 🥇
+ - Süddeutscher Vize-Meister Soccer LightWeight League 2023 🥈
+
  ## RESCUE
 
   ### Team NEBula **gegründet 2022**
@@ -60,9 +70,6 @@ lang: de
   - Dritter Platz Deutsche Meisterschaft OnStage League 2022 🎖️
 
 ## Ehemalige Teams
- - Team Robotronic 
-
-
  - Team Jellyfish
 
  - Team SoccerXY
