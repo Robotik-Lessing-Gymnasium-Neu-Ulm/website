@@ -121,7 +121,6 @@ Robotik zu begeistern würde der ["RoboCup Junior"](https://junior.robocup.org) 
 dem ["RoboCup Major"](https://robocup.org), welcher für Universitäten ist.
 Wir nehmen seit 2007 am ["RoboCup Junior"](https://junior.robocup.org) teil und haben bereits mehrmals
 die internationale Weltmeisterschaft gewonnen. 
-
 '''
 
 [languages.de.params.two]
@@ -226,7 +225,7 @@ body = '''
 The regional qualification tournament in Vöhringen is the beginning of the robotics season. With 9 participating 
 teams our goal was to present all the skills and improvements we made.
 Continue reading [here](/posts/RCJV24/) !
-
+'''
 
 [[languages.en.params.two.section]]
 img = '/img/23/LGNU-WorldOpen.jpg'
