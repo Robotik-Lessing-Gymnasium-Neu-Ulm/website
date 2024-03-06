@@ -3,7 +3,7 @@ title = 'Technulgy: Robotics LGNU'
 languageCode = 'de'
 defaultContentLanguage = 'de'
 paginate = 7
-theme = ['hugo-embed-pdf-shortcode', 'spectral']
+theme = ['spectral', 'hugo-embed-pdf-shortcode']
 enableInlineShortcodes = true
 
 [params]
@@ -226,7 +226,7 @@ body = '''
 The regional qualification tournament in Vöhringen is the beginning of the robotics season. With 9 participating 
 teams our goal was to present all the skills and improvements we made.
 Continue reading [here](/posts/RCJV24/) !
-
+'''
 
 [[languages.en.params.two.section]]
 img = '/img/23/LGNU-WorldOpen.jpg'
