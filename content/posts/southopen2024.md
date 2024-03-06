@@ -1,13 +1,3 @@
----
-title: "Süddeutsche Meisterschaft"
-author: "carla"
-date: 2024-03-06
-image: '/img/24/Robocup2024-001.jpg'
-draft: false
-lang: de
----
-
-# 6 Teams für die deutsche Meisterschaft qualifiziert
 
 Mit der Süddeutschen Meisterschaft in Vöhringen, starten wir jedes Jahr die Robotik Saison. Am ersten 
 Märzwochenende haben 9 Teams von unserer Schule in den verschiedenen Disziplinen gezeigt was sie 
@@ -34,6 +24,7 @@ Das Gesamtergebniss:
  - Team Mathimazierer (Soccer LightWeight) &rarr; 3. Platz
  - Team Nebula (Rescue Maze) &rarr; 3. Platz
  - Team RoboChip (Rescue Line Entry) &rarr; 6. Platz
+
  - FireRaiders (Rescue Maze Entry) &rarr; 6. Platz
  - Technik Squad (Rescue Line Entry) &rarr; 21. Platz
  - RoboMeister (Rescue Line Entry) &rarr; 24. Platz
