@@ -37,7 +37,7 @@ lang: de
  - Dritter Platz Deutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
  - Dritter Platz Süddeutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
 
-   ### Team Robotronic **(gegründet 2018)**
+  ### Team Robotronic **(gegründet 2018)**
  **MITGLIEDER**
  Dario Woll, Noah Zeller, Elias Braun(2019-2023)
  **Erfolge 2023** Soccer LightWeight League *Weltmeister Super-Team Kategorie🥇*

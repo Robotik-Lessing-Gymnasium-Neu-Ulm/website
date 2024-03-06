@@ -3,7 +3,7 @@ title = 'Technulgy: Robotics LGNU'
 languageCode = 'de'
 defaultContentLanguage = 'de'
 paginate = 7
-theme = ['hugo-embed-pdf-shortcode', 'spectral']
+theme = ['spectral', 'hugo-embed-pdf-shortcode']
 enableInlineShortcodes = true
 
 [params]
@@ -128,6 +128,16 @@ die internationale Weltmeisterschaft gewonnen.
 enable = true 
 
 [[languages.de.params.two.section]]
+img = '/img/24/Robocup2024-001.jpg'
+title = 'Süddeutsche Meisterschaft'
+body = '''
+Mit der Süddeutschen Meisterschaft in Vöhringen, starten wir jedes Jahr die Robotik Saison. Am ersten 
+Märzwochenende haben 9 Teams von unserer Schule in den verschiedenen Disziplinen gezeigt was sie 
+gelernt haben.
+Lesen sie [hier](/posts/RCJV24/) weiter!
+'''
+
+[[languages.de.params.two.section]]
 img = '/img/23/LGNU-WorldOpen.jpg'
 title = 'Welt-Meisterschaft'
 body = '''
@@ -210,10 +220,19 @@ We have been participating in the RoboCup Junior championships since the year 20
 enable = true
 
 [[languages.en.params.two.section]]
+img = '/img/24/Robocup2024-001.jpg'
+title = 'South-German Open'
+body = '''
+The regional qualification tournament in Vöhringen is the beginning of the robotics season. With 9 participating 
+teams our goal was to present all the skills and improvements we made.
+Continue reading [here](/posts/RCJV24/) !
+
+
+[[languages.en.params.two.section]]
 img = '/img/23/LGNU-WorldOpen.jpg'
 title = 'World Open'
 body = '''
-We are all realy excited for the upcoming World Open in Bordeaux in France. 
+We are all really excited for the upcoming World Open in Bordeaux in France. 
 Before the competition, the two teams will stay for two nights in Liou and 
 going to explore Bordeaux the day before the competition starts.
 Our two teams will posts updates on [instagram]( /invis/links) and [here]( /en/posts/worldopen2023/).
@@ -266,6 +285,6 @@ special = false
 enable = true
 title = 'Contact'
 email = 'contact@technulgy.com'
-body = 'If you have any questions or inquiries, feel free to wirte us a message:'
+body = 'If you have any questions or inquiries, feel free to write us a message:'
 subject = 'Nachricht von Robotics Website'
 formspree_form_id = 'xgebgjze'
