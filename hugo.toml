@@ -285,6 +285,6 @@ special = false
 enable = true
 title = 'Contact'
 email = 'contact@technulgy.com'
-body = 'If you have any questions or inquiries, feel free to wirte us a message:'
+body = 'If you have any questions or inquiries, feel free to write us a message:'
 subject = 'Nachricht von Robotics Website'
 formspree_form_id = 'xgebgjze'
