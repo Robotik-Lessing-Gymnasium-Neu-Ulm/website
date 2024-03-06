@@ -3,7 +3,7 @@ title = 'Technulgy: Robotics LGNU'
 languageCode = 'de'
 defaultContentLanguage = 'de'
 paginate = 7
-theme = ['hugo-embed-pdf-shortcode', 'spectral']
+theme = ['spectral', 'hugo-embed-pdf-shortcode']
 enableInlineShortcodes = true
 
 [params]
@@ -126,6 +126,16 @@ die internationale Weltmeisterschaft gewonnen.
 
 [languages.de.params.two]
 enable = true 
+
+[[languages.de.params.two.section]]
+img = '/img/24/Robocup2024-001.jpg'
+title = 'Süddeutsche Meisterschaft'
+body = '''
+Mit der Süddeutschen Meisterschaft in Vöhringen, starten wir jedes Jahr die Robotik Saison. Am ersten 
+Märzwochenende haben 9 Teams von unserer Schule in den verschiedenen Disziplinen gezeigt was sie 
+gelernt haben.
+Lesen sie [hier](/posts/RCJV24/) weiter!
+'''
 
 [[languages.de.params.two.section]]
 img = '/img/23/LGNU-WorldOpen.jpg'
