@@ -124,6 +124,18 @@ die internationale Weltmeisterschaft gewonnen.
 
 '''
 
+[languages.en.params.two]
+enable = true
+
+[[languages.en.params.two.section]]
+img = '/img/24/Robocup2024-001.jpg'
+title = 'South-German Open'
+body = '''
+Der RoboCup Junior in Vöhringen ist für uns immer der Beginn der Robotiksaison. Dieses Jahr waren wir
+mit 9 Teams vertreten. Für mehr Infos klicken Sie [hier](/posts/southopen2024/) !
+'''
+
+
 [languages.de.params.two]
 enable = true 
 
