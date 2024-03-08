@@ -36,7 +36,7 @@ title = 'Home'
 
 [[languages.de.params.menu.main]]
 url = '/posts/'
-title = 'Posts'
+title = 'Artikel'
 
 [[languages.de.params.menu.main]]
 url = '/teams/'
@@ -75,11 +75,18 @@ title = 'Home'
 
 [[languages.en.params.menu.main]]
 url = '/en/posts/'
-title = 'Posts'
+title = 'Articles'
 
 [[languages.en.params.menu.main]]
 url = '/en/teams/'
 title = 'Teams'
+name = 'teams'
+identifier = 'teams'
+
+[[languages.en.params.menu.main]]
+url = '/en/teams/banane'
+title = 'Banane'
+parent = 'teams'
 
 [[languages.en.params.menu.main]]
 url = '/en/participation-history/'
