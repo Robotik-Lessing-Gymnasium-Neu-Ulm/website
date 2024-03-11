@@ -27,57 +27,216 @@ lang: de
       </div>
     </div>
   </div>
+
+
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        Accordion Item #2
+       <b>2022</b>
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <strong>Robocup Europameisterschaft in Guimares (Portugal)</strong> 
+		<p>- 2.Platz soccer light weight **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)</p>
+		<p>- 3.Platz soccer open **Team Jellyfish** (Vera Zeller, Carla Straßburger) </p>
       </div>
     </div>
   </div>
+
+
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        Accordion Item #3
+       <b>2020 & 2021</b>
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <strong>Wir haben die digitalen Robocups ausgelassen</strong> 
       </div>
     </div>
   </div>
+
+
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2019</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Europameisterschaft in Hannover (Deutschland) 
+		</strong>
+		<p>2.Platz soccer light weight  <b>Team Jellyfish</b> (Annika Braunwarth, Artem Kovalchuk,  Carla Straßburger, Vera Zeller)</p>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2018</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Montreal (Kanada) 
+		</strong>
+		<p>1.Platz soccer light weight primary superteam <b>Robocrafters</b> (Maximilian Glumann, Johannes Gondan, Niklas Holzwarth, Lukas Tiltscher)</p>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2017</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Nagoja (Japan) 
+		</strong>
+		<p>2.Platz OnStage secondary <b>iBots</b> (Sarah Bertleff, Christian Häußler, Lukas Mack, Gesa Niehues, Jessica Niznik, Karina Schumacher) </p>
+		<p>3.Platz soccer open superteam <b>Robocrafters</b> (Maximilian Glumann, Johannes Gondan, Niklas Holzwarth, Lukas Tiltscher)</p>
+		<p>3.Platz soccer light weight primary superteam <b>Soccer XY</b> (Paul Thierer, Christoph Brune, Julias Hense, Maximilian Schummer)</p>
+      </div>
+    </div>
+  </div>
+     
+	 
+ <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2016</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Leipzig (Deutschland) 
+		</strong>
+		<p>1.Platz dance secondary (Schwerpunkt Elektronik) <b>iBots</b> (Sarah Bertleff, Christian Häußler, Lukas Mack, Gesa Niehues, Jessica Niznik, Karina Schumacher)</p>
+      </div>
+    </div>
+  </div>
+
+ <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2015</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Hefei (China) 
+		</strong>
+		<p>1.Platz soccer light weight secondary superteam <b>mljp-robotics</b> (Michael Berg, Paul Romahn, Leonhard Sommer, Jonas Viel)</p>
+		<p>1.Platz dance secondary(Schwerpunkt Elektronik) <b>iBots</b> (Alina Bergonzi, Christian Häußler, Lukas Mack, Gesa Niehues, Jessica Niznik, Benedict Röcken, Karina Schumacher)</p>
+		<p>2.Platz soccer open superteam <b>Robocrafters</b> (Maximilian Glumann, Johannes Gondan, Niklas Holzwarth, Lukas Tiltscher)</p>
+      </div>
+     </div>
+ </div>
+
+     
+ <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2014</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in João Pessoa (Brasilien) 
+		</strong>
+		<p>1.Platz soccer open <b>Team Faabs</b> (Fabian Brune, Mark Krause und Jurij Lenz)</p>
+		<p>1.Platz soccer light weight superteam <b>Robotronic</b> (Elias Braun, Jonas Schatz, Dario Woll und Noah Zeller)</p>
+		<strong>
+		RoboCup Junior Europameisterschaft in Varazdin (Kroatien)
+		</strong>
+		<p>2.Platz soccer 1vs1 light weight <b>Mathemazierer</b> (Dominik Hummel, Emanuel Sanchez und Theo Reber)</p>
+      </div>
+    </div>
+  </div>
+
+  
+ <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2023</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich) 
+		</strong>
+		<p>1.Platz soccer open <b>Team Faabs</b> (Fabian Brune, Mark Krause und Jurij Lenz)</p>
+		<p>1.Platz soccer light weight superteam <b>Robotronic</b> (Elias Braun, Jonas Schatz, Dario Woll und Noah Zeller)</p>
+		<strong>
+		RoboCup Junior Europameisterschaft in Varazdin (Kroatien)
+		</strong>
+		<p>2.Platz soccer 1vs1 light weight <b>Mathemazierer</b> (Dominik Hummel, Emanuel Sanchez und Theo Reber)</p>
+      </div>
+    </div>
+  </div>
+
+
+  
+ <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2023</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich) 
+		</strong>
+		<p>1.Platz soccer open <b>Team Faabs</b> (Fabian Brune, Mark Krause und Jurij Lenz)</p>
+		<p>1.Platz soccer light weight superteam <b>Robotronic</b> (Elias Braun, Jonas Schatz, Dario Woll und Noah Zeller)</p>
+		<strong>
+		RoboCup Junior Europameisterschaft in Varazdin (Kroatien)
+		</strong>
+		<p>2.Platz soccer 1vs1 light weight <b>Mathemazierer</b> (Dominik Hummel, Emanuel Sanchez und Theo Reber)</p>
+      </div>
+    </div>
+  </div>
+
+
+  
+ <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2023</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich) 
+		</strong>
+		<p>1.Platz soccer open <b>Team Faabs</b> (Fabian Brune, Mark Krause und Jurij Lenz)</p>
+		<p>1.Platz soccer light weight superteam <b>Robotronic</b> (Elias Braun, Jonas Schatz, Dario Woll und Noah Zeller)</p>
+		<strong>
+		RoboCup Junior Europameisterschaft in Varazdin (Kroatien)
+		</strong>
+		<p>2.Platz soccer 1vs1 light weight <b>Mathemazierer</b> (Dominik Hummel, Emanuel Sanchez und Theo Reber)</p>
+      </div>
+    </div>
+  </div>
+
 </div>
-
-
-### 2022 **Robocup Europameisterschaft in Guimares (Portugal)**
-- 2.Platz soccer light weight **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
-- 3.Platz soccer open **Team Jellyfish** (Vera Zeller, Carla Straßburger)
-
-### Wir haben die digitialen RoboCup's 2020 & 2021 ausgelassen
-
-### 2019 **RoboCup Junior Europameisterschaft in Hannover (Deutschland)**
- - 2.Platz soccer light weight  **Team Jellyfish** (Annika Braunwarth, Artem Kovalchuk,  Carla Straßburger, Vera Zeller)
-
-### 2018 **RoboCup Junior Weltmeisterschaft in Montreal (Kanada)**
- - 1.Platz soccer light weight primary superteam **Robocrafters** (Maximilian Glumann, Johannes Gondan, Niklas Holzwarth, Lukas Tiltscher)
-
-### 2017 **RoboCup Junior Weltmeisterschaft in Nagoja (Japan)**
- - 2.Platz OnStage secondary **iBots** 
- - 3.Platz soccer open superteam **Robocrafters**
- - 3.Platz soccer light weight primary superteam **SoccerXY** 
-
-### 2016 **RoboCup Junior Weltmeisterschaft in Leipzig (Deutschland)**
- - 1.Platz dance secondary (Schwerpunkt Elektronik) **iBots** (Sarah Bertleff, Christian Häußler, Lukas Mack, Gesa Niehues, Jessica Niznik, Karina Schumacher)
-
-### 2015 **RoboCup Junior Weltmeisterschaft in Hefei (China)**
- - 1.Platz soccer light weight secondary superteam **mljp-robotics** (Michael Berg, Paul Romahn, Leonhard Sommer, Jonas Viel)
- - 1.Platz dance secondary(Schwerpunkt Elektronik) **iBots** (Alina Bergonzi, Christian Häußler, Lukas Mack, Gesa Niehues, Jessica Niznik, Benedict Röcken, Karina Schumacher)
- - 2.Platz soccer open superteam **Robocrafters** (Maximilian Glumann, Johannes Gondan, Niklas Holzwarth, Lukas Tiltscher)
 
 ### 2014 **RoboCup Junior Weltmeisterschaft in João Pessoa (Brasilien)**
  - 1.Platz CoSpace dance secondary **Lc-Robot**
