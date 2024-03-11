@@ -6,22 +6,17 @@ draft: false
 lang: de
 ---
 <details>
-<summary>2023</summary>
-<br>
-
-**RoboCup Junior Europameisterschaft in Varazdin (Kroatien)**
-- 2.Platz soccer 1vs1 light weight **Mathemazierer** (Dominik Hummel, Emanuel Sanchez und Theo Reber)
-
-**RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich)**
+<summary><h2> 2023 </h2></summary>
+<details>
+<summary>RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich)</summary>
 - 1.Platz soccer light weight superteam **Robotronic** (Elias Braun, Jonas Scharz, Dario Woll und Noah Zeller)
 - 1.Platz soccer open **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
 </details>
-
-### 2023 **RoboCup Junior Europameisterschaft in Varazdin (Kroatien)**
+<details>
+<summary>RoboCup Junior Europameisterschaft in Varazdin (Kroatien)</summary>
 - 2.Platz soccer 1vs1 light weight **Mathemazierer** (Dominik Hummel, Emanuel Sanchez und Theo Reber)
-**RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich)**
-- 1.Platz soccer light weight superteam **Robotronic** (Elias Braun, Jonas Scharz, Dario Woll und Noah Zeller)
-- 1.Platz soccer open **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
+   </details>
+   </details>
 
 ### 2022 **Robocup Europameisterschaft in Guimares (Portugal)**
 - 2.Platz soccer light weight **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
