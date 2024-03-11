@@ -5,18 +5,54 @@ author: "technulgy"
 draft: false
 lang: de
 ---
-<details>
-<summary><h2> 2023 </h2></summary>
-<details>
-<summary>RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich)</summary>
-- 1.Platz soccer light weight superteam **Robotronic** (Elias Braun, Jonas Scharz, Dario Woll und Noah Zeller)
-- 1.Platz soccer open **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
-</details>
-<details>
-<summary>RoboCup Junior Europameisterschaft in Varazdin (Kroatien)</summary>
-- 2.Platz soccer 1vs1 light weight **Mathemazierer** (Dominik Hummel, Emanuel Sanchez und Theo Reber)
-   </details>
-   </details>
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+       <b>2023</b>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>
+		RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich) 
+		</strong>
+		<p>1.Platz soccer open <b>Team Faabs</b> (Fabian Brune, Mark Krause und Jurij Lenz)</p>
+		<p>1.Platz soccer light weight superteam <b>Robotronic</b> (Elias Braun, Jonas Schatz, Dario Woll und Noah Zeller)</p>
+		<strong>
+		RoboCup Junior Europameisterschaft in Varazdin (Kroatien)
+		</strong>
+		<p>2.Platz soccer 1vs1 light weight <b>Mathemazierer</b> (Dominik Hummel, Emanuel Sanchez und Theo Reber)</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Accordion Item #2
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Accordion Item #3
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+</div>
+
 
 ### 2022 **Robocup Europameisterschaft in Guimares (Portugal)**
 - 2.Platz soccer light weight **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
