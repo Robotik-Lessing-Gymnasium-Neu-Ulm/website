@@ -63,11 +63,11 @@ lang: en
 ### We did not participated at the digital Robocups in 2020 & 2021 
 
 ### 2022 **RoboCup Junior European-Championships in Guimarães (Portugal)**
-- 2.Place soccer light weight **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
+- 2.Place soccer light weight **Team Faabs** (Fabian Brune, Mark Krause und Jurij Lentz)
 - 3.Place soccer open **Team Jellyfish** (Vera Zeller, Carla Straßburger)
 
 ### 2023 **RoboCup Junior European-Championships in Varazdin (Croatia)**
-- 2.Place soccer 1vs1 light weight **Mathemazierer** (Dominik Hummel, Emanuel Sanchez und Theo Reber)
+- 2.Place soccer 1vs1 light weight **Mathimazierer** (Dominik Hummel, Emanuel Sanchez und Theo Reber)
 **RoboCup Junior World-Championships in Bordeaux (France)**
 - 1.Place soccer light weight superteam **Robotronic** (Elias Braun, Jonas Scharz, Dario Woll und Noah Zeller)
-- 1.Place soccer open **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)
+- 1.Place soccer open **Team Faabs** (Fabian Brune, Mark Krause und Jurij Lentz)
