@@ -9,11 +9,11 @@ lang: de
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentythree" aria-expanded="true" aria-controls="collapseTwentythree">
        <b>2023</b>
       </button>
     </h2>
-    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+    <div id="collapseTwentythree" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
 		RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich) 
@@ -31,11 +31,11 @@ lang: de
 
   <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentytwo" aria-expanded="false" aria-controls="collapseTwentytwo">
        <b>2022</b>
       </button>
     </h2>
-    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseTwentytwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>Robocup Europameisterschaft in Guimares (Portugal)</strong> 
 		<p>- 2.Platz soccer light weight **Team Faabs** (Fabian Brune, Mark Krause und Jurji Lentz)</p>
@@ -45,13 +45,13 @@ lang: de
   </div>
 
 
-  <div class="accordion-item">
+   <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyandone" aria-expanded="false" aria-controls="collapseTwentyandone">
        <b>2020 & 2021</b>
       </button>
     </h2>
-    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseTwentyandone" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>Wir haben die digitalen Robocups ausgelassen</strong> 
       </div>
@@ -59,13 +59,13 @@ lang: de
   </div>
 
 
-   <div class="accordion-item">
+ <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNineteen" aria-expanded="false" aria-controls="collapseNineteen">
        <b>2019</b>
       </button>
     </h2>
-    <div id="collapseFour" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+    <div id="collapseNineteen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
 		RoboCup Junior Europameisterschaft in Hannover (Deutschland) 
@@ -76,13 +76,13 @@ lang: de
   </div>
 
 
-   <div class="accordion-item">
+ <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEightteen" aria-expanded="false" aria-controls="collapseEightteen">
        <b>2018</b>
       </button>
     </h2>
-    <div id="collapseFive" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+    <div id="collapseEightteen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
 		RoboCup Junior Weltmeisterschaft in Montreal (Kanada) 
@@ -95,11 +95,11 @@ lang: de
 
    <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
        <b>2017</b>
       </button>
     </h2>
-    <div id="collapseSix" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+    <div id="collapseSeventeen" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
 		RoboCup Junior Weltmeisterschaft in Nagoja (Japan) 
@@ -114,11 +114,11 @@ lang: de
 	 
  <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
        <b>2016</b>
       </button>
     </h2>
-    <div id="collapseSeven" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+    <div id="collapseSixteen" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
 		RoboCup Junior Weltmeisterschaft in Leipzig (Deutschland) 
@@ -130,11 +130,11 @@ lang: de
 
  <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
        <b>2015</b>
       </button>
     </h2>
-    <div id="collapseEight" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+    <div id="collapseFifteen" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>
 		RoboCup Junior Weltmeisterschaft in Hefei (China) 
