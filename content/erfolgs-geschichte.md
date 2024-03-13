@@ -9,11 +9,11 @@ lang: de
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="w-100 btn btn-lg btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwentythree" aria-expanded="false" aria-controls="flush-collapseTwentythree">
+      <button class="w-100 btn btn-lg btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwentythree" aria-expanded="true" aria-controls="flush-collapseTwentythree">
         <strong>2023</strong>
       </button>
     </h2>
-    <div id="flush-collapseTwentythree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+    <div id="flush-collapseTwentythree" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
 	  <strong>RoboCup Junior Weltmeisterschaft in Bordeaux (Frankreich)</strong>
 	  <p>1.Platz soccer open <b>Team Faabs</b> (Fabian Brune, Mark Krause und Jurij Lenz)</p>
