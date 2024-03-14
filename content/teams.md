@@ -9,20 +9,26 @@ lang: de
 # Aktive Teams
 ## SOCCER
 
-  <ul class="nav nav-tabs">
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">Soccer</a>
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="soccer-tab" data-bs-toggle="tab" data-bs-target="#soccer" type="button" role="tab" aria-controls="soccer" aria-selected="true">Soccer</button>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Rescue</a>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="rescue-tab" data-bs-toggle="tab" data-bs-target="#rescue" type="button" role="tab" aria-controls="rescue" aria-selected="false">Rescue</button>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">OnStage</a>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="onstage-tab" data-bs-toggle="tab" data-bs-target="#onstage" type="button" role="tab" aria-controls="onstage" aria-selected="false">OnStage</button>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Ehemalige</a>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="ehemalige-tab" data-bs-toggle="tab" data-bs-target="#ehemalige" type="button" role="tab" aria-controls="ehemalige" aria-selected="false">Ehemalige Teams</button>
   </li>
 </ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">...</div>
+  <div class="tab-pane fade" id="rescue" role="tabpanel" aria-labelledby="rescue-tab">...</div>
+  <div class="tab-pane fade" id="onstage" role="tabpanel" aria-labelledby="onstage-tab">...</div>
+  <div class="tab-pane fade" id="ehemalige" role="tabpanel" aria-labelledby="ehemalige-tab">...</div>
+</div>
 
 
   <div id="carouselExampleCaptions" class="carousel slide">
