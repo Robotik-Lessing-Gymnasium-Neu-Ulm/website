@@ -18,7 +18,7 @@ lang: de
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/img/24/Faabs.jpg" class="d-block w-100" alt="...">
+      <img src="/img/24/TeamFaabs24.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Fabian Brune</h5>
         <p>Hardware</p>
