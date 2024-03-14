@@ -9,6 +9,21 @@ lang: de
 # Aktive Teams
 ## SOCCER
 
+  <ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">Soccer</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Rescue</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">OnStage</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Ehemalige</a>
+  </li>
+</ul>
+
 
   <div id="carouselExampleCaptions" class="carousel slide">
   <div class="carousel-indicators">
