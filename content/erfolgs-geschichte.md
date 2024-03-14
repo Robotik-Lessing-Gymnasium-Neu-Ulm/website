@@ -19,7 +19,7 @@ lang: de
 	  <p>1.Platz soccer open <b>Team Faabs</b> (Fabian Brune, Mark Krause und Jurij Lenz)</p>
 	  <p>1.Platz soccer light weight superteam <b>Robotronic</b> (Elias Braun, Jonas Schatz, Dario Woll und Noah Zeller)</p>
 	  <strong>RoboCup Junior Europameisterschaft in Varazdin (Kroatien)</strong>
-	  <p>2.Platz soccer 1vs1 light weight <b>Mathemazierer</b> (Dominik Hummel, Emanuel Sanchez und Theo Reber)</p>
+	  <p>2.Platz soccer 1vs1 light weight <b>Mathimazierer</b> (Dominik Hummel, Mika Rudat, Emanuel Sanchez und Theo Reber)</p>
 	  </div>
     </div>
   </div>
@@ -90,7 +90,7 @@ lang: de
 	  <strong>RoboCup Junior Weltmeisterschaft in Nagoja (Japan)</strong>
 		<p>2.Platz OnStage secondary <b>iBots</b> (Sarah Bertleff, Christian Häußler, Lukas Mack, Gesa Niehues, Jessica Niznik, Karina Schumacher) </p>
 		<p>3.Platz soccer open superteam <b>Robocrafters</b> (Maximilian Glumann, Johannes Gondan, Niklas Holzwarth, Lukas Tiltscher)</p>
-		<p>3.Platz soccer light weight primary superteam <b>Soccer XY</b> (Paul Thierer, Christoph Brune, Julias Hense, Maximilian Schummer)</p>
+		<p>3.Platz soccer light weight primary superteam <b>Soccer XY</b> (Paul Thierer, Christoph Brune, Julius Hense, Maximilian Schummer)</p>
 	  </div>
     </div>
   </div>
@@ -154,7 +154,7 @@ lang: de
 	  <p>1.Platz soccer light weight primary superteam <b>Robocrafters</b> (Maximilian Glumann, Johannes Gondan, Niklas Holzwarth, Lukas Tiltscher)</p>
  	  <p>1.Platz dance primary superteam <b>M&M's</b> (Valeria Alvarez, Annika Brock, Nina Dangel, 
 	  Christina Hinz, Leonie Sauer)</p>
-      <p>1.Platz dance primary <b>Bots</b> (Christian Häußler, Christoph Klossika, Lukas 
+      <p>1.Platz dance primary <b>iBots</b> (Christian Häußler, Christoph Klossika, Lukas 
 	  Mack, Jessica Niznik, Regina Moll)</p>
 	  </div>
     </div>

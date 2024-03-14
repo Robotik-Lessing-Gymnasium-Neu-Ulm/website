@@ -21,6 +21,9 @@ table * a {
 }
 
 
+<style> </style>
+
+
 {{ with .Site.Params.custom_css }}
 {{ $custom_css := resources.Get . | minify | fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $custom_css.RelPermalink }}" integrity="{{ $custom_css.Data.Integrity }}">
