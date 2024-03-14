@@ -11,7 +11,7 @@ lang: de
 
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="soccer-tab" data-bs-toggle="tab" data-bs-target="#soccer" type="button" role="tab" aria-controls="soccer" aria-selected="true">Soccer</button>
+    <button class="nav-link active" id="soccer-tab" data-bs-toggle="tab" data-bs-target="#soccer" type="button" role="tab" aria-controls="soccer" aria-selected="false">Soccer</button>
   </li>
   <li class="nav-item" role="presentation">
     <button class="nav-link" id="rescue-tab" data-bs-toggle="tab" data-bs-target="#rescue" type="button" role="tab" aria-controls="rescue" aria-selected="false">Rescue</button>
@@ -24,10 +24,26 @@ lang: de
   </li>
 </ul>
 <div class="tab-content" id="myTabContent">
-  <div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">...</div>
-  <div class="tab-pane fade" id="rescue" role="tabpanel" aria-labelledby="rescue-tab">...</div>
-  <div class="tab-pane fade" id="onstage" role="tabpanel" aria-labelledby="onstage-tab">...</div>
-  <div class="tab-pane fade" id="ehemalige" role="tabpanel" aria-labelledby="ehemalige-tab">...</div>
+<!--SOCCER-->
+  <div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">
+  
+  
+  
+  
+  </div>
+<!--RESCUE-->
+  <div class="tab-pane fade" id="rescue" role="tabpanel" aria-labelledby="rescue-tab">
+  
+  
+  </div>
+<!--ONSTAGE-->
+  <div class="tab-pane fade" id="onstage" role="tabpanel" aria-labelledby="onstage-tab">
+  
+  </div>
+<!--EHEMALIGE-->
+  <div class="tab-pane fade" id="ehemalige" role="tabpanel" aria-labelledby="ehemalige-tab">
+  
+  </div>
 </div>
 
 
@@ -41,22 +57,19 @@ lang: de
     <div class="carousel-item active">
       <img src="/img/24/TeamFaabs24.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Fabian Brune</h5>
-        <p>Hardware</p>
+        <p>Jurij Lenz(Hardware), Mark Krause(Software), Fabian Brune(Hardware)</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="/img/24/Robocup2024-054.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Mark Krause</h5>
-        <p>Software</p>
+        <p>Soccer Open League Roboter</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="/img/24/Robocup2024-094.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Jurij Lenz</h5>
-        <p>Hardware</p>
+        <p>in Action</p>
       </div>
     </div>
   </div>
@@ -71,11 +84,9 @@ lang: de
  </div>
 
 
-  ### Team Faabs **(gegründet 2019)**
-  **MITGLIEDER:**
-  Fabian Brune, Mark Krause, Jurij Lenz 
+  ### Team Faabs (gegründet 2019)
   
-  **Erfolge 2023** Open League *Weltmeister*🥇
+  ### **Erfolge 2023** Open League *Weltmeister*🥇
 
  - Weltmeister Soccer Open League 2023 🥇
  - Gewinner des "Outstanding Design Awards" 2023 🥇
@@ -83,7 +94,7 @@ lang: de
  - Deutscher Meister Soccer Open League Super Team 2023 🥈
  - Süddeutscher Vize Meister Soccer Open League 2023 🥈
 
-  **Erfolge 2022** LightWeight League Vize Weltmeister 🥈
+  #### Erfolge 2022** LightWeight League Vize Weltmeister 🥈
 
  - Vize Europameister Soccer LightWeight League 2022 🥈
  - Deutscher Vize Meister Soccer LightWeight League 2022 🥈
