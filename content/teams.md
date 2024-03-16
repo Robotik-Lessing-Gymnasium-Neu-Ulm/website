@@ -71,9 +71,7 @@ lang: de
   <h3>Jurij Lenz</h3>
   <a href="#"  data-toggle="popover" data-img="/img/24/Jurij.jpg" title="Jurij Lenz" >Toggle popover</a>
 </div>
-<button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="div class= "media"><img src="/img/24/Jurij.jpg"> alt="Jurij" style="width:200px;height:300px;">
-  Jurij Lenz
-</button>
+
 
 
   #### **Erfolge 2023** Open League *Weltmeister*🥇
