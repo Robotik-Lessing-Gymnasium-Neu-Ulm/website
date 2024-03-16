@@ -66,9 +66,12 @@ lang: de
  </div>
 
   ### **Team Faabs** (gegründet 2019)
+
 <button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="div class="media"><img src="/img/24/Jurij.jpg" alt="Jurij" style="width:200px;height:300px;">
   Jurij Lenz
 </button>
+
+
   #### **Erfolge 2023** Open League *Weltmeister*🥇
 
  - Weltmeister Soccer Open League 2023 🥇
