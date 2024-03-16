@@ -14,7 +14,7 @@ lang: de
     <button class="nav-link active" id="soccer-tab" data-bs-toggle="tab" data-bs-target="#soccer" type="button" role="tab" aria-controls="soccer" aria-selected="false">Soccer</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="rescue-tab" data-bs-toggle="tab" data-bs-target="#rescue" type="button" role="button" aria-controls="rescue" aria-selected="false">Rescue</button>
+    <button class="nav-link active" id="rescue-tab" data-bs-toggle="tab" data-bs-target="#rescue" type="button" role="tab" aria-controls="rescue" aria-selected="false">Rescue</button>
   </li>
   <li class="nav-item" role="presentation">
     <button class="nav-link" id="onstage-tab" data-bs-toggle="tab" data-bs-target="#onstage" type="button" role="tab" aria-controls="onstage" aria-selected="false">OnStage</button>
