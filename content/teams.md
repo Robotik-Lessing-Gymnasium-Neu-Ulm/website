@@ -7,13 +7,6 @@ lang: de
 
 
 
-<div class="tab-content" id="myTabContent">
-<div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">
-<div class="tab-pane fade" id="rescue" role="tabpanel" aria-labelledby="rescue-tab">
-<div class="tab-pane fade" id="onstage" role="tabpanel" aria-labelledby="onstage-tab">
-<div class="tab-pane fade" id="ehemalige" role="tabpanel" aria-labelledby="ehemalige-tab">
-
-
 <!--SOCCER-->
  <!--Team Faabs-->
   <div id="carouselTeamFaabs" class="carousel slide">
@@ -53,13 +46,6 @@ lang: de
  </div>
 
   ### **Team Faabs** (gegründet 2019)
-
-<div class="container">
-  <h3>Jurij Lenz</h3>
-  <a href="#"  data-toggle="popover" data-img="/img/24/Jurij.jpg" title="Jurij Lenz" >Toggle popover</a>
-</div>
-
-
 
   #### **Erfolge 2023** Open League *Weltmeister*🥇
 
@@ -121,9 +107,6 @@ lang: de
  - Deutscher Meister Soccer LightWeight League Super Team 2023 🥇
  - Süddeutscher Vize-Meister Soccer LightWeight League 2023 🥈
 
-  
-  
-  </div>
 <!--RESCUE-->
   
    ### Team NEBula **gegründet 2022**
@@ -133,9 +116,8 @@ lang: de
  **Erfolge 2023** Soccer LightWeight League *Vize Süddeutscher Meister* 🥈
   - Vize Süddeutscher Meister Soccer LightWeight Entry Leauge 2023 🥈
 
-  </div>
 <!--ONSTAGE-->
-  <div class="tab-pane fade" id="onstage" role="tabpanel" aria-labelledby="onstage-tab">
+
   
   ## ONSTAGE 
  ### Team Nuttelabroedchen **gegründet 2021**
@@ -150,9 +132,7 @@ lang: de
  **Erfolge 2022** *3. Platz Deutsche Meisterschaften* 🎖️
   - Dritter Platz Deutsche Meisterschaft OnStage League 2022 🎖️
 
-  </div>
 <!--EHEMALIGE-->
-  <div class="tab-pane fade" id="ehemalige" role="tabpanel" aria-labelledby="ehemalige-tab">
   
   
  ## Ehemalige Teams
@@ -160,7 +140,7 @@ lang: de
 
  - Team SoccerXY
 
-  </div>
+
 </div>
 
   ### Team Robotronic **(gegründet 2018)**
