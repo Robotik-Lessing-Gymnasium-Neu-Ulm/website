@@ -14,10 +14,7 @@ lang: de
 <div class="tab-pane fade" id="ehemalige" role="tabpanel" aria-labelledby="ehemalige-tab">
 
 
-<!--SOCCER-->git status
-  <div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">
-  
-  
+<!--SOCCER-->
  <!--Team Faabs-->
   <div id="carouselTeamFaabs" class="carousel slide">
   <div class="carousel-indicators">
