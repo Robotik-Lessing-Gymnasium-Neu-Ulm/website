@@ -8,6 +8,12 @@ lang: de
 
 
 <div class="tab-content" id="myTabContent">
+<div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">
+<div class="tab-pane show active" id="rescue" role="tabpanel" aria-labelledby="rescue-tab">
+<div class="tab-pane fade" id="onstage" role="tabpanel" aria-labelledby="onstage-tab">
+<div class="tab-pane fade" id="ehemalige" role="tabpanel" aria-labelledby="ehemalige-tab">
+
+
 <!--SOCCER-->
   <div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">
   
@@ -122,7 +128,6 @@ lang: de
   
   </div>
 <!--RESCUE-->
-  <div class="tab-pane show active" id="rescue" role="tabpanel" aria-labelledby="rescue-tab">
   
    ### Team NEBula **gegründet 2022**
  **MITGLIEDER:**  
