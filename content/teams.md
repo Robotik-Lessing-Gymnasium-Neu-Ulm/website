@@ -6,30 +6,7 @@ lang: de
 ---
 
 
-# Aktive Teams
-## SOCCER
 
-<div class="tab-content">
-  <div class="tab-pane fade show active" id="soccer2" role="tabpanel" aria-labelledby="home-tab" tabindex="0">penis</div>
-  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">...</div>
-  <div class="tab-pane fade" id="messages" role="tabpanel" aria-labelledby="messages-tab" tabindex="0">...</div>
-  <div class="tab-pane fade" id="settings" role="tabpanel" aria-labelledby="settings-tab" tabindex="0">...</div>
-</div>
-
-<ul class="nav nav-tabs" id="myTab" role="tablist">
-  <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="soccer-tab" data-bs-toggle="tab" data-bs-target="#soccer" type="button" role="tab" aria-controls="soccer" aria-selected="false">Soccer</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="rescue-tab" data-bs-toggle="tab" data-bs-target="#rescue" type="button" role="tab" aria-controls="rescue" aria-selected="false">Rescue</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button class="nav-link" id="onstage-tab" data-bs-toggle="tab" data-bs-target="#onstage" type="button" role="tab" aria-controls="onstage" aria-selected="false">OnStage</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button class="nav-link" id="ehemalige-tab" data-bs-toggle="tab" data-bs-target="#ehemalige" type="button" role="tab" aria-controls="ehemalige" aria-selected="false">Ehemalige Teams</button>
-  </li>
-</ul>
 <div class="tab-content" id="myTabContent">
 <!--SOCCER-->
   <div class="tab-pane fade show active" id="soccer" role="tabpanel" aria-labelledby="soccer-tab">
