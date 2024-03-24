@@ -160,6 +160,7 @@ lang: de
 
   <!--RESCUE-->
   <div class="tab-pane fade" id="nav-rescue" role="tabpanel" aria-labelledby="nav-rescue-tab" tabindex="0">
+  
     ### Team NEBula **gegründet 2022**
     <div id="carouselNEBula" class="carousel slide">
   <div class="carousel-indicators">
@@ -191,10 +192,10 @@ lang: de
   </button>
  </div>
   
-    **MITGLIEDER:**  
-    Bahaa Alia, Nils Trunzer, Elias Schuster
+  **MITGLIEDER:**  
+  Bahaa Alia, Nils Trunzer, Elias Schuster
 
-    **Erfolge 2023** Soccer LightWeight League *Vize Süddeutscher Meister* 🥈
+  **Erfolge 2023** Soccer LightWeight League *Vize Süddeutscher Meister* 🥈
     - Vize Süddeutscher Meister Soccer LightWeight Entry Leauge 2023 🥈
 
   </div>
@@ -238,15 +239,15 @@ lang: de
     <span class="visually-hidden">Next</span>
   </button>
  </div>
-   **MITGLIEDER:** 
 
+   **MITGLIEDER:** 
     Paula Wranik, Martin Strassburger, Pascal Schmidt und Johannes Merkel
 
-    **Erfolge 2023** *6.Platz Europameisterschaft*
+  **Erfolge 2023** *6.Platz Europameisterschaft*
     - Dritter Platz Deutsche Meisterschaft OnStage League 2023 🎖️
     - Süddeutscher Meister Onstage League 2023 🥇
   
-    **Erfolge 2022** *3. Platz Deutsche Meisterschaften* 🎖️
+  **Erfolge 2022** *3. Platz Deutsche Meisterschaften* 🎖️
     - Dritter Platz Deutsche Meisterschaft OnStage League 2022 🎖️
 </div>
 
