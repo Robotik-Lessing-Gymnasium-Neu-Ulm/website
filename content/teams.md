@@ -161,6 +161,36 @@ lang: de
   <!--RESCUE-->
   <div class="tab-pane fade" id="nav-rescue" role="tabpanel" aria-labelledby="nav-rescue-tab" tabindex="0">
     ### Team NEBula **gegründet 2022**
+    <div id="carouselNEBula" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselNEBula" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselNEBula" data-bs-slide-to="1" aria-label="Slide 2"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/img/24/NEBula2024.jpeg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      <p>Elias Schuster, Bahaa Alia(Software, Hardware, Elektronik), Nils Jens Trunzer</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="/img/24/Robocup2024-004.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      <p>Robocup Vöhringen 2024</p>
+      </div>
+    </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselNEBula" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselNEBula" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+ </div>
+  
     **MITGLIEDER:**  
     Bahaa Alia, Nils Trunzer, Elias Schuster
 
@@ -171,8 +201,43 @@ lang: de
 
   <!--ONSTAGE-->
   <div class="tab-pane fade" id="nav-OnStage" role="tabpanel" aria-labelledby="nav-cOnstage-tab" tabindex="0">  
-   ## ONSTAGE 
+
    ### Team Nuttelabroedchen **gegründet 2021**
+  <div id="carouselNuttelabroedchen" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/img/24/Nutellabroetchen24.jpeg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Martin Straßburger, Pascal Schmidt, Lisa, Paula Wranik, Johannes Merkel(nicht auf Foto)</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="/img/24/Robocup2024-026.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>in Action</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="/img/24/Robocup2024-029.jpgjpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Bob, Stuart und der Gorilla</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+ </div>
    **MITGLIEDER:** 
 
     Paula Wranik, Martin Strassburger, Pascal Schmidt und Johannes Merkel
