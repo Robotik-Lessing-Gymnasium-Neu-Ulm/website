@@ -160,7 +160,8 @@ lang: de
 
   <div class="tab-pane fade" id="nav-rescue" role="tabpanel" aria-labelledby="nav-rescue-tab" tabindex="0">
    <!--RESCUE-->
-      ### Team NEBula **gegründet 2022**
+    
+  ### Team NEBula **gegründet 2022**
 
   <div id="carouselNEBula" class="carousel slide">
   <div class="carousel-indicators">
@@ -201,27 +202,28 @@ lang: de
   <div class="tab-pane fade" id="nav-OnStage" role="tabpanel" aria-labelledby="nav-cOnstage-tab" tabindex="0">  
 
    ### Team Nuttelabroedchen **gegründet 2021**
-    <div id="carouselNuttelabroedchen" class="carousel slide">
-      <div class="carousel-indicators">
-      <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="2" aria-label="Slide 3"></button>
+
+   <div id="carouselNuttelabroedchen" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselNuttelabroedchen" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/img/24/Nutellabroetchen24.jpeg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Martin Straßburger, Pascal Schmidt, Lisa, Paula Wranik, Johannes Merkel(nicht auf Foto)</p>
       </div>
-      <div class="carousel-inner">
-       <div class="carousel-item active">
-       <img src="/img/24/Nutellabroetchen24.jpeg" class="d-block w-100" alt="...">
-       <div class="carousel-caption d-none d-md-block">
-       <p>Martin Straßburger, Pascal Schmidt, Lisa, Paula Wranik, Johannes Merkel(nicht auf Foto)</p>
-       </div>
-      </div>
-      <div class="carousel-item">
+    </div>
+    <div class="carousel-item">
       <img src="/img/24/Robocup2024-026.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>in Action</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/img/24/Robocup2024-029.jpgjpg" class="d-block w-100" alt="...">
+      <img src="/img/24/Robocup2024-029.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Bob, Stuart und der Gorilla</p>
       </div>
@@ -236,10 +238,7 @@ lang: de
     <span class="visually-hidden">Next</span>
   </button>
  </div>
-
-   **MITGLIEDER:** 
-    Paula Wranik, Martin Strassburger, Pascal Schmidt und Johannes Merkel
-
+  
   **Erfolge 2023** *6.Platz Europameisterschaft*
     - Dritter Platz Deutsche Meisterschaft OnStage League 2023 🎖️
     - Süddeutscher Meister Onstage League 2023 🥇
