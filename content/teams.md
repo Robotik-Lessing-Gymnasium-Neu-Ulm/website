@@ -158,28 +158,27 @@ lang: de
 
   </div>
 
-  <!--RESCUE-->
   <div class="tab-pane fade" id="nav-rescue" role="tabpanel" aria-labelledby="nav-rescue-tab" tabindex="0">
+   <!--RESCUE-->
+      ### Team NEBula **gegründet 2022**
 
-    ### Team NEBula **gegründet 2022**
-    <div id="carouselNEBula" class="carousel slide">
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#carouselNEBula" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#carouselNEBula" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    </div>
-   <div class="carousel-inner">
+  <div id="carouselNEBula" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselNEBula" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselNEBula" data-bs-slide-to="1" aria-label="Slide 2"></button>
+  </div>
+  <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="/img/24/NEBula2024.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-      <p>Elias Schuster, Bahaa Alia(Software, Hardware, Elektronik), Nils Jens Trunzer</p>
+       <p>Elias Schuster, Bahaa Alia(Software, Hardware, Elektronik), Nils Jens Trunzer</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/img/24/Robocup2024-004.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-      <p>Robocup Vöhringen 2024</p>
+       <p>Robocup Vöhringen 2024</p>
       </div>
-    </div>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselNEBula" data-bs-slide="prev">
@@ -190,10 +189,7 @@ lang: de
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-  </div>
-  
-  **MITGLIEDER:**  
-  Bahaa Alia, Nils Trunzer, Elias Schuster
+ </div>
 
   **Erfolge 2023** Soccer LightWeight League *Vize Süddeutscher Meister* 🥈
     - Vize Süddeutscher Meister Soccer LightWeight Entry Leauge 2023 🥈
