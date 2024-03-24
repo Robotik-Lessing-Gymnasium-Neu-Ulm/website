@@ -17,6 +17,8 @@ lang: de
   <div class="tab-pane fade show active" id="nav-soccer" role="tabpanel" aria-labelledby="nav-soccer-tab" tabindex="0">
   <!--SOCCER-->
  <!--Team Faabs-->
+
+  ### **Team Faabs** (gegründet 2019)
   <div id="carouselTeamFaabs" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselTeamFaabs" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -53,8 +55,6 @@ lang: de
   </button>
  </div>
 
-  ### **Team Faabs** (gegründet 2019)
-
   #### **Erfolge 2023** Open League *Weltmeister*🥇
 
  - Weltmeister Soccer Open League 2023 🥇
@@ -69,6 +69,8 @@ lang: de
  - Deutscher Vize Meister Soccer LightWeight League 2022 🥈
 
  <!--Mathimazierer-->
+
+   ### Team Mathimazierer **(gegründet 2022)**
   <div id="carouselMathimazierer" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMathimazierer" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -98,7 +100,6 @@ lang: de
   </button>
  </div>
 
-  ### Team Mathimazierer **(gegründet 2022)**
   #### **Erfolge 2023** LightWeight League *Vize Europameister* 🥈
 
  - Vize Europameister Soccer LightWeight Entry League 2023 🥈
@@ -108,7 +109,44 @@ lang: de
 
 
   <!--Robotronic-->
+
   ### Team Robotronic **(gegründet 2018)**
+  <div id="carouselRobotronic" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselRobotronic" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselRobotronic" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselRobotronic" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/img/24/Robotronic24.jpeg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      <p> Noah Zeller, Dario Woll</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="/img/24/Robocup2024-014.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      <p>Soccer Lightweight League Roboter</p>
+      </div>
+    </div>
+     <div class="carousel-item">
+      <img src="/img/24/Robocup2024-092.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      <p>in action</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselMathimazierer" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselMathimazierer" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+ </div>
+
  **MITGLIEDER**
  Dario Woll, Noah Zeller, Elias Braun(2019-2023)
  **Erfolge 2023** Soccer LightWeight League *Weltmeister Super-Team Kategorie🥇*
@@ -156,25 +194,3 @@ lang: de
 
    - Team SoccerXY</div>
 </div>
-
-
-<!--EHEMALIGE-->
-  
-  
- ## Ehemalige Teams
- - Team Jellyfish
-
- - Team SoccerXY
-
-
-</div>
-
-  ### Team Robotronic **(gegründet 2018)**
- **MITGLIEDER**
- Dario Woll, Noah Zeller, Elias Braun(2019-2023)
- **Erfolge 2023** Soccer LightWeight League *Weltmeister Super-Team Kategorie🥇*
-
- - Weltmeister Soccer LightWeight League Super Team 2023 🥇
- - Deutscher Meister Soccer LightWeight League 2023 🥇
- - Deutscher Meister Soccer LightWeight League Super Team 2023 🥇
- - Süddeutscher Vize-Meister Soccer LightWeight League 2023 🥈
