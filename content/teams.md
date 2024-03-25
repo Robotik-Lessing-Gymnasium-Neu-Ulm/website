@@ -55,18 +55,20 @@ lang: de
   </button>
  </div>
 
-  #### **Erfolge 2023** Open League *Weltmeister*🥇
+ <h2><b>Erfolge 2023</b> Open League <b>Weltmeister</b>🥇</h2>
+ <ul>
+  <li>Weltmeister Soccer Open League 2023 🥇</li>
+  <li>Gewinner des "Outstanding Design Awards" 2023 🥇</li>
+  <li>Deutscher Vize Meister Soccer Open League 2023 🥈</li>
+  <li>Deutscher Meister Soccer Open League Super Team 2023 🥈</li>
+  <li>Süddeutscher Vize Meister Soccer Open League 2023 🥈</li>
+ </ul>
 
- - Weltmeister Soccer Open League 2023 🥇
- - Gewinner des "Outstanding Design Awards" 2023 🥇
- - Deutscher Vize Meister Soccer Open League 2023 🥈
- - Deutscher Meister Soccer Open League Super Team 2023 🥈
- - Süddeutscher Vize Meister Soccer Open League 2023 🥈
-
-  ##### **Erfolge 2022** LightWeight League Vize Weltmeister 🥈
-
- - Vize Europameister Soccer LightWeight League 2022 🥈
- - Deutscher Vize Meister Soccer LightWeight League 2022 🥈
+  <h3><b>Erfolge 2022</b> LightWeight League Vize Weltmeister 🥈</h3>
+  <ul>
+    <li>Vize Europameister Soccer LightWeight League 2022 🥈</li>
+    <li>Deutscher Vize Meister Soccer LightWeight League 2022 🥈</li>
+  </ul>
 
  <!--Mathimazierer-->
 
