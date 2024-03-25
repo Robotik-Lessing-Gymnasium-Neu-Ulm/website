@@ -248,7 +248,7 @@ lang: de
     <li>Süddeutscher Meister Onstage League 2023 🥇</li>
   </ul>
   
-  <h4><b>Erfolge 2022<b> 3. Platz Deutsche Meisterschaften 🎖️</h4>
+  <h4><b>Erfolge 2022</b> 3. Platz Deutsche Meisterschaften 🎖️</h4>
   <ul>
     <li>Dritter Platz Deutsche Meisterschaft OnStage League 2022 🎖️</li>
   </ul>
