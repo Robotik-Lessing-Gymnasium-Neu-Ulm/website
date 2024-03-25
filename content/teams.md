@@ -69,7 +69,7 @@ lang: de
     <li>Vize Europameister Soccer LightWeight League 2022 🥈</li>
     <li>Deutscher Vize Meister Soccer LightWeight League 2022 🥈</li>
   </ul>
-
+ <hr>
  <!--Mathimazierer-->
 
    <h3><b>Team Mathimazierer</b>(gegründet 2022)</h3>
@@ -110,7 +110,7 @@ lang: de
  </ul>
 
 
-
+<hr>
   <!--Robotronic-->
 
   <h3><b>Team Robotronic</b>(gegründet 2018)</h3>
