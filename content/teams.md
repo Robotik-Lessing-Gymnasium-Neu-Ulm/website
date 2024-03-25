@@ -18,7 +18,7 @@ lang: de
   <!--SOCCER-->
  <!--Team Faabs-->
 
-  ### **Team Faabs** (gegründet 2019)
+  <h2><b>Team Faabs</b> (gegründet 2019)</h2>
   <div id="carouselTeamFaabs" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselTeamFaabs" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -55,7 +55,7 @@ lang: de
   </button>
  </div>
 
- <h2><b>Erfolge 2023</b> Open League <b>Weltmeister</b>🥇</h2>
+ <h3><b>Erfolge 2023</b> Open League <b>Weltmeister</b>🥇</h3>
  <ul>
   <li>Weltmeister Soccer Open League 2023 🥇</li>
   <li>Gewinner des "Outstanding Design Awards" 2023 🥇</li>
@@ -72,7 +72,7 @@ lang: de
 
  <!--Mathimazierer-->
 
-   ### Team Mathimazierer **(gegründet 2022)**
+   <h2><b>Team Mathimazierer</b>(gegründet 2022)</h2>
   <div id="carouselMathimazierer" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMathimazierer" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -102,17 +102,18 @@ lang: de
   </button>
  </div>
 
-  #### **Erfolge 2023** LightWeight League *Vize Europameister* 🥈
-
- - Vize Europameister Soccer LightWeight Entry League 2023 🥈
- - Dritter Platz Deutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
- - Dritter Platz Süddeutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
+  <h3><b>Erfolge 2023</b> LightWeight League <b>Vize Europameister</b> 🥈</h3>
+ <ul>
+  <li>Vize Europameister Soccer LightWeight Entry League 2023 🥈</li>
+  <li>Dritter Platz Deutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️</li>
+  <li>Dritter Platz Süddeutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️</li>
+ </ul>
 
 
 
   <!--Robotronic-->
 
-  ### Team Robotronic **(gegründet 2018)**
+  <h2><b>Team Robotronic</b>(gegründet 2018)</h2>
   <div id="carouselRobotronic" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselRobotronic" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -149,21 +150,19 @@ lang: de
   </button>
  </div>
 
- **MITGLIEDER**
- Dario Woll, Noah Zeller, Elias Braun(2019-2023)
- **Erfolge 2023** Soccer LightWeight League *Weltmeister Super-Team Kategorie🥇*
-
- - Weltmeister Soccer LightWeight League Super Team 2023 🥇
- - Deutscher Meister Soccer LightWeight League 2023 🥇
- - Deutscher Meister Soccer LightWeight League Super Team 2023 🥇
- - Süddeutscher Vize-Meister Soccer LightWeight League 2023 🥈
-
+ <h3><b>Erfolge 2023</b> Soccer LightWeight League <b>Weltmeister Super-Team Kategorie</b>🥇</h3>
+  <ul>
+    <li>Weltmeister Soccer LightWeight League Super Team 2023 🥇</li>
+    <li>Deutscher Meister Soccer LightWeight League 2023 🥇</li>
+    <li>Deutscher Meister Soccer LightWeight League Super Team 2023 🥇</li>
+    <li>Süddeutscher Vize-Meister Soccer LightWeight League 2023 🥈</li>
+  </ul>
   </div>
 
   <div class="tab-pane fade" id="nav-rescue" role="tabpanel" aria-labelledby="nav-rescue-tab" tabindex="0">
    <!--RESCUE-->
     
-  ### Team NEBula **gegründet 2022**
+  <h2><b>Team NEBula</b>gegründet 2022</h2>
 
   <div id="carouselNEBula" class="carousel slide">
   <div class="carousel-indicators">
@@ -194,8 +193,10 @@ lang: de
   </button>
  </div>
 
-  **Erfolge 2023** Soccer LightWeight League *Vize Süddeutscher Meister* 🥈
-    - Vize Süddeutscher Meister Soccer LightWeight Entry Leauge 2023 🥈
+  <h3><b>Erfolge 2023</b> Soccer LightWeight League <b>Vize Süddeutscher Meister</b> 🥈</h3>
+  <ul>
+    <li>Vize Süddeutscher Meister Soccer LightWeight Entry Leauge 2023 🥈</li>
+   </ul>
   </div>
 
 
@@ -203,7 +204,7 @@ lang: de
   <!--ONSTAGE-->
   <div class="tab-pane fade" id="nav-OnStage" role="tabpanel" aria-labelledby="nav-cOnstage-tab" tabindex="0">  
 
-   ### Team Nuttelabroedchen **gegründet 2021**
+   <h2><b>Team Nuttelabroedchen</b> gegründet 2021</h2>
 
    <div id="carouselNuttelabroedchen" class="carousel slide">
   <div class="carousel-indicators">
@@ -241,20 +242,26 @@ lang: de
   </button>
  </div>
   
-  **Erfolge 2023** *6.Platz Europameisterschaft*
-    - Dritter Platz Deutsche Meisterschaft OnStage League 2023 🎖️
-    - Süddeutscher Meister Onstage League 2023 🥇
+  <h3><b>Erfolge 2023</b> 6.Platz Europameisterschaft</h3>
+  <ul>
+    <li> Dritter Platz Deutsche Meisterschaft OnStage League 2023 🎖️</li>
+    <li>Süddeutscher Meister Onstage League 2023 🥇</li>
+  </ul>
   
-  **Erfolge 2022** *3. Platz Deutsche Meisterschaften* 🎖️
-    - Dritter Platz Deutsche Meisterschaft OnStage League 2022 🎖️
+  <h3><b>Erfolge 2022<b> 3. Platz Deutsche Meisterschaften 🎖️</h3>
+  <ul>
+    <li>Dritter Platz Deutsche Meisterschaft OnStage League 2022 🎖️</li>
+  </ul>
 </div>
 
 
 <!--EHEMALIGE-->
   <div class="tab-pane fade" id="nav-ehemalige" role="tabpanel" aria-labelledby="nav-ehemalige-tab" tabindex="0"> 
 
-   ## Ehemalige Teams
-   - Team Jellyfish
-
-   - Team SoccerXY</div>
+   <h3> Ehemalige Teams</h3>
+   <ul>
+    <li>Team Jellyfish</li>
+    <li>Team SoccerXY</li>
+    </ul>
+    </div>
 </div>
