@@ -18,7 +18,7 @@ lang: de
   <!--SOCCER-->
  <!--Team Faabs-->
 
-  <h2><b>Team Faabs</b> (gegründet 2019)</h2>
+  <h3><b>Team Faabs</b> (gegründet 2019)</h3>
   <div id="carouselTeamFaabs" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselTeamFaabs" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -55,7 +55,7 @@ lang: de
   </button>
  </div>
 
- <h3><b>Erfolge 2023</b> Open League <b>Weltmeister</b>🥇</h3>
+ <h4><b>Erfolge 2023</b> Open League <i>Weltmeister</i>🥇</h4>
  <ul>
   <li>Weltmeister Soccer Open League 2023 🥇</li>
   <li>Gewinner des "Outstanding Design Awards" 2023 🥇</li>
@@ -64,7 +64,7 @@ lang: de
   <li>Süddeutscher Vize Meister Soccer Open League 2023 🥈</li>
  </ul>
 
-  <h3><b>Erfolge 2022</b> LightWeight League Vize Weltmeister 🥈</h3>
+  <h4><b>Erfolge 2022</b> LightWeight League <i>Vize Weltmeister</i>🥈</h4>
   <ul>
     <li>Vize Europameister Soccer LightWeight League 2022 🥈</li>
     <li>Deutscher Vize Meister Soccer LightWeight League 2022 🥈</li>
@@ -72,7 +72,7 @@ lang: de
 
  <!--Mathimazierer-->
 
-   <h2><b>Team Mathimazierer</b>(gegründet 2022)</h2>
+   <h3><b>Team Mathimazierer</b>(gegründet 2022)</h3>
   <div id="carouselMathimazierer" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMathimazierer" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -102,7 +102,7 @@ lang: de
   </button>
  </div>
 
-  <h3><b>Erfolge 2023</b> LightWeight League <b>Vize Europameister</b> 🥈</h3>
+  <h4><b>Erfolge 2023</b> LightWeight League <i>Vize Europameister</i> 🥈</h4>
  <ul>
   <li>Vize Europameister Soccer LightWeight Entry League 2023 🥈</li>
   <li>Dritter Platz Deutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️</li>
@@ -113,7 +113,7 @@ lang: de
 
   <!--Robotronic-->
 
-  <h2><b>Team Robotronic</b>(gegründet 2018)</h2>
+  <h3><b>Team Robotronic</b>(gegründet 2018)</h3>
   <div id="carouselRobotronic" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselRobotronic" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -150,7 +150,7 @@ lang: de
   </button>
  </div>
 
- <h3><b>Erfolge 2023</b> Soccer LightWeight League <b>Weltmeister Super-Team Kategorie</b>🥇</h3>
+ <h4><b>Erfolge 2023</b> Soccer LightWeight League <i>Weltmeister Super-Team Kategorie</i>🥇</h4>
   <ul>
     <li>Weltmeister Soccer LightWeight League Super Team 2023 🥇</li>
     <li>Deutscher Meister Soccer LightWeight League 2023 🥇</li>
@@ -162,7 +162,7 @@ lang: de
   <div class="tab-pane fade" id="nav-rescue" role="tabpanel" aria-labelledby="nav-rescue-tab" tabindex="0">
    <!--RESCUE-->
     
-  <h2><b>Team NEBula</b>gegründet 2022</h2>
+  <h3><b>Team NEBula</b>gegründet 2022</h3>
 
   <div id="carouselNEBula" class="carousel slide">
   <div class="carousel-indicators">
@@ -193,7 +193,7 @@ lang: de
   </button>
  </div>
 
-  <h3><b>Erfolge 2023</b> Soccer LightWeight League <b>Vize Süddeutscher Meister</b> 🥈</h3>
+  <h4><b>Erfolge 2023</b> Soccer LightWeight League <i>Vize Süddeutscher Meister</i> 🥈</h4>
   <ul>
     <li>Vize Süddeutscher Meister Soccer LightWeight Entry Leauge 2023 🥈</li>
    </ul>
@@ -204,7 +204,7 @@ lang: de
   <!--ONSTAGE-->
   <div class="tab-pane fade" id="nav-OnStage" role="tabpanel" aria-labelledby="nav-cOnstage-tab" tabindex="0">  
 
-   <h2><b>Team Nuttelabroedchen</b> gegründet 2021</h2>
+   <h3><b>Team Nuttelabroedchen</b> gegründet 2021</h3>
 
    <div id="carouselNuttelabroedchen" class="carousel slide">
   <div class="carousel-indicators">
@@ -242,13 +242,13 @@ lang: de
   </button>
  </div>
   
-  <h3><b>Erfolge 2023</b> 6.Platz Europameisterschaft</h3>
+  <h4><b>Erfolge 2023</b> 6.Platz Europameisterschaft</h4>
   <ul>
     <li> Dritter Platz Deutsche Meisterschaft OnStage League 2023 🎖️</li>
     <li>Süddeutscher Meister Onstage League 2023 🥇</li>
   </ul>
   
-  <h3><b>Erfolge 2022<b> 3. Platz Deutsche Meisterschaften 🎖️</h3>
+  <h4><b>Erfolge 2022<b> 3. Platz Deutsche Meisterschaften 🎖️</h4>
   <ul>
     <li>Dritter Platz Deutsche Meisterschaft OnStage League 2022 🎖️</li>
   </ul>
