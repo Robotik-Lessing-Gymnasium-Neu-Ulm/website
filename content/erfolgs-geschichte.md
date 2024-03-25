@@ -5,7 +5,7 @@ author: "technulgy"
 draft: false
 lang: de
 ---
-
+<div class="text-center">
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header">
@@ -233,4 +233,5 @@ lang: de
 	</div>
   </div>
 
+</div>
 </div>
