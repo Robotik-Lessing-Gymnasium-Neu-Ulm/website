@@ -18,7 +18,7 @@ lang: de
   <!--SOCCER-->
  <!--Team Faabs-->
 
-  <h3><b>Team Faabs</b> (gegründet 2019)</h3>
+  <h2><b>Team Faabs</b> (gegründet 2019)</h2>
   <div id="carouselTeamFaabs" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselTeamFaabs" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -72,7 +72,7 @@ lang: de
  <hr>
  <!--Mathimazierer-->
 
-   <h3><b>Team Mathimazierer</b>(gegründet 2022)</h3>
+   <h2><b>Team Mathimazierer</b>(gegründet 2022)</h2>
   <div id="carouselMathimazierer" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselMathimazierer" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -113,7 +113,7 @@ lang: de
 <hr>
   <!--Robotronic-->
 
-  <h3><b>Team Robotronic</b>(gegründet 2018)</h3>
+  <h2><b>Team Robotronic</b>(gegründet 2018)</h2>
   <div id="carouselRobotronic" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselRobotronic" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -162,7 +162,7 @@ lang: de
   <div class="tab-pane fade" id="nav-rescue" role="tabpanel" aria-labelledby="nav-rescue-tab" tabindex="0">
    <!--RESCUE-->
     
-  <h3><b>Team NEBula</b>gegründet 2022</h3>
+  <h2><b>Team NEBula</b>gegründet 2022</h2>
 
   <div id="carouselNEBula" class="carousel slide">
   <div class="carousel-indicators">
@@ -204,7 +204,7 @@ lang: de
   <!--ONSTAGE-->
   <div class="tab-pane fade" id="nav-OnStage" role="tabpanel" aria-labelledby="nav-cOnstage-tab" tabindex="0">  
 
-   <h3><b>Team Nuttelabroedchen</b> gegründet 2021</h3>
+   <h2><b>Team Nuttelabroedchen</b> gegründet 2021</h2>
 
    <div id="carouselNuttelabroedchen" class="carousel slide">
   <div class="carousel-indicators">
