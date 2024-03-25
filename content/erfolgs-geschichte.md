@@ -7,7 +7,7 @@ lang: de
 ---
 <div class="text-center">
 <div class="accordion accordion-flush" id="accordionFlushExample">
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwentythree" aria-expanded="true" aria-controls="flush-collapseTwentythree">
         <strong>2023</strong>
@@ -23,7 +23,7 @@ lang: de
 	  </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwentytwo" aria-expanded="false" aria-controls="flush-collapseTwentytwo">
        <strong>2022</strong>
@@ -38,7 +38,7 @@ lang: de
 	</div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwentyOne" aria-expanded="false" aria-controls="flush-collapseTwentyOne">
        <strong>2020 & 2021</strong>
@@ -51,7 +51,7 @@ lang: de
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNineteen" aria-expanded="false" aria-controls="flush-collapseNineteen">
         <strong>2019</strong>
@@ -65,7 +65,7 @@ lang: de
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEightteen" aria-expanded="false" aria-controls="flush-collapseEightteen">
        <strong>2018</strong>
@@ -79,7 +79,7 @@ lang: de
 	</div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeventeen" aria-expanded="false" aria-controls="flush-collapseSeventeen">
        <strong>2017</strong>
@@ -95,7 +95,7 @@ lang: de
     </div>
   </div>
 
- <div class="accordion-item">
+ <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSixteen" aria-expanded="false" aria-controls="flush-collapseSixteen">
         <strong>2016</strong>
@@ -109,7 +109,7 @@ lang: de
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFifteen" aria-expanded="false" aria-controls="flush-collapseFifteen">
        <strong>2015</strong>
@@ -125,7 +125,7 @@ lang: de
 	</div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFourteen" aria-expanded="false" aria-controls="flush-collapseFourteen">
        <strong>2014</strong>
@@ -142,7 +142,7 @@ lang: de
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThirteen" aria-expanded="false" aria-controls="flush-collapseThirteen">
         <strong>2013</strong>
@@ -160,7 +160,7 @@ lang: de
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwelve" aria-expanded="false" aria-controls="flush-collapseTwelve">
        <strong>2012</strong>
@@ -175,7 +175,7 @@ lang: de
 	</div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEleven" aria-expanded="false" aria-controls="flush-collapseEleven">
        <strong>2011</strong>
@@ -189,7 +189,7 @@ lang: de
     </div>
   </div>
  
- <div class="accordion-item">
+ <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
        <strong>2010</strong>
@@ -204,7 +204,7 @@ lang: de
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
         <strong>2009</strong>
@@ -218,7 +218,7 @@ lang: de
     </div>
   </div>
 
-  <div class="accordion-item">
+  <div class>
     <h2 class="accordion-header">
       <button class="w-100 btn btn-lg btn" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
        <strong>2008</strong>

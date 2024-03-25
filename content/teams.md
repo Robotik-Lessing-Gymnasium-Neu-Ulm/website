@@ -105,7 +105,7 @@ lang: de
  - Vize Europameister Soccer LightWeight Entry League 2023 🥈
  - Dritter Platz Deutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
  - Dritter Platz Süddeutsche Meisterschaft Soccer LightWeight Entry League 2023 🎖️
-  
+
 
 
   <!--Robotronic-->
