@@ -84,11 +84,6 @@ name = 'teams'
 identifier = 'teams'
 
 [[languages.en.params.menu.main]]
-url = '/en/teams/banane'
-title = 'Banane'
-parent = 'teams'
-
-[[languages.en.params.menu.main]]
 url = '/en/participation-history/'
 title = 'Participation history'
 
@@ -136,6 +131,7 @@ enable = true
 [[languages.de.params.two.section]]
 img = '/img/24/Robocup2024-001.jpg'
 title = 'Süddeutsche Meisterschaft'
+date = 
 body = '''
 Mit der Süddeutschen Meisterschaft in Vöhringen, starten wir jedes Jahr die Robotik Saison. Am ersten 
 Märzwochenende haben 9 Teams von unserer Schule in den verschiedenen Disziplinen gezeigt was sie 
