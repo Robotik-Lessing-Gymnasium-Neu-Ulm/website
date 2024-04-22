@@ -16,13 +16,6 @@ table * a {
 
 </style> 
 
-table * a {
-    color: black !important;
-}
-
-
-<style> </style>
-
 
 {{ with .Site.Params.custom_css }}
 {{ $custom_css := resources.Get . | minify | fingerprint "sha512" }}
