@@ -15,7 +15,7 @@ lang: de
 </nav>
 <div class="tab-content" id="nav-tabContent">
   <div class="tab-pane fade show active" id="nav-soccer" role="tabpanel" aria-labelledby="nav-soccer-tab" tabindex="0">
-  <!--SOCCeER-->
+  <!--SOCCER-->
  <!--Team Faabs-->
 
   <h2><b>Team Faabs</b> (gegründet 2019)</h2>
