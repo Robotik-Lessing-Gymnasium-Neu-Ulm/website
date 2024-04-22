@@ -1,5 +1,5 @@
 ---
-title: "Deutsche Meisterschaft"
+title: "Deutsche Meisterschaft 24"
 author: "carla"
 date: 2024-04-22
 image: '/img/24/KasselSiegerehrung.jpg'

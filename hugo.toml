@@ -129,6 +129,15 @@ die internationale Weltmeisterschaft gewonnen.
 enable = true 
 
 [[languages.de.params.two.section]]
+img = '/img/24/KasselSiegerehrung.jpg'
+title = 'Deutsche Meisterschaft'
+body = '''
+Bei der Deutschen Meisterschaft 2024 in Kassel haben wir uns sowohl für die Weltmeisterschaft in Eindhoven,
+als auch für die Europameisterschaft in Hannover qualifiziert.
+Welche Teams das sind und wie die Wettkämpfe waren lesen sie [hier](/posts/germanhopen2024)!
+'''
+
+[[languages.de.params.two.section]]
 img = '/img/24/Robocup2024-001.jpg'
 title = 'Süddeutsche Meisterschaft'
 body = '''
