@@ -147,48 +147,6 @@ gelernt haben.
 Lesen sie [hier](/posts/southopen2024) weiter!
 '''
 
-[[languages.de.params.two.section]]
-img = '/img/23/LGNU-WorldOpen.jpg'
-title = 'Welt-Meisterschaft'
-body = '''
-Unseren beiden Teams die sich für die Weltmeisterschaft in Bordeaux Frankreich qualifiziert haben
-freuen sich schon auf den bevorstehenden Wettkampf. 
-Bevor sie nach Bordeaux fahren, bleiben sie noch zwei Tage in der Stadt Lyon und werden den Tag vor
-dem Wettkampf Bordeaux erkunden.
-Beide Teams werden regelmäßig Updates auf [Instagram](/invis/links/) und [hier](/posts/worldopen2023/) veröffentlichen.
-'''
-
-
-[[languages.de.params.two.section]]
-img = '/img/23/LGNU-EuropeanOpen.jpg'
-title = 'Europa-Meisterschaft'
-body = '''
-Zwei unserer fünf Teams qualifizierten  sich für die Europameisterschaft in Varazidin in Kroatien.
-Trotz starker Gegner hatten sie trotzdem viel Spaß auf der Meisterschaft und beim Erkunden der Stadt.
-Lesen sie [hier](/posts/europeanopen2023/) weiter!
-'''
-
-[[languages.de.params.two.section]]
-img = '/img/23/LGNU-GermanOpen.jpg'
-title = 'Deutsche Meisterschaft'
-body = '''
-Die Deutsche Meisterschaft ist der Vorentscheid für die internationalen Meisterschaften
-und somit die wichtigste Meisterschaft Deutschlands. Wir sind mit fünf Teams angereist und
-vier davon qualifizierten sich für eine der beiden internationalen Wettkämpfe.
-Jeweils zwei für die Europameisterschaft und die Weltmeisterschaft.
-Lesen sie [hier](/posts/germanopen2023/) weiter!
-'''
-
-[[languages.de.params.two.section]]
-img = '/img/LGNU-Alle.jpg'
-title = 'Süddeutsche Meisterschaft'
-body = '''
-Die Süddeutsche Meisterschaft ist der Auftakt der alljährlichen RobCup Juniors. Er dient
-als Vorentscheid für die Deutsche Meisterschaft. 
-Lesen sie [hier](/posts/southopen2023/) weiter!
-'''
-
-
 [languages.de.params.cta]
 enable = true
 title = 'Lerne unsere Teams kennen oder schau dir unsere Erfolgsgeschichte an'
