@@ -216,7 +216,7 @@ lang: de
     <div class="carousel-item active">
       <img src="/img/24/Nutellabroetchen24.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <p>Martin Straßburger, Pascal Schmidt, Lisa, Paula Wranik, Johannes Merkel(nicht auf Foto)</p>
+        <p>Martin Straßburger, Pascal Schmidt, Lisa Muzyka, Paula Wranik, Johannes Merkel(nicht auf Foto)</p>
       </div>
     </div>
     <div class="carousel-item">

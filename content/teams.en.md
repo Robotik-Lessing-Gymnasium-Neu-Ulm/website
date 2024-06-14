@@ -60,7 +60,7 @@ lang: en
  ### Team Nuttelabroedchen **founded 2021**
  **MEMBERS:** 
 
- Paula Wranik, Martin Strassburger, Pascal Schmidt und Johannes Merkel
+ Paula Wranik, Martin Strassburger, Lisa Muzyka, Pascal Schmidt und Johannes Merkel
 
 **Results 2023** *6.Place at European Championships*
   - Third Place at the German Championships OnStage League 2023 🎖️
