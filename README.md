@@ -1,3 +1,3 @@
 # LGNU Website
 
-Currently, in rewrite for react ts with tailwind css.
+Its gonna be a new repo!
