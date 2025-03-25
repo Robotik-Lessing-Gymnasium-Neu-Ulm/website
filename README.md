@@ -1,3 +1,3 @@
 # LGNU Website
 
-Currently in rewrite modus for clean html & css.
+Currently, in rewrite for react ts with tailwind css.
