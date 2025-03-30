@@ -1,3 +1,6 @@
+# Website is archived
+We coded a new website, you can find the source code here: [Website V2](https://github.com/Technulgy-LGNU/technulgy-website)
+
 # Wie man die Website ändert
 
 ```bash
